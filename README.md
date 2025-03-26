@@ -1,4 +1,12 @@
-# GRUPO6_ISB-2025-I
+# GRUPO6_ISB-2025-
+
+# Bienvenidos al repositorio del Grupo 6 del curso "Introducción a señales Biomédicas"
+
+## 📑 Tabla de contenidos
+- [Participantes](#participantes)
+- [Docentes](#docentes)
+
+## 👥 Participantes
 
 Bienvenidos al repositorio del Grupo 6 del curso "Introducción a señales Biomédicas"
 Tabla de contenidos
