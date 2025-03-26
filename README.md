@@ -6,11 +6,11 @@ Participantes
 Docentes
 Participantes
 Paco Aurelio Castillo Carreño (colaborador) ► paco.castillo@upch.pe
-Alejandro Javier Rosas Gonzalez Zuñiga (colaborador) ► alejandro.rosas@upch.pe
+Ronald Sebastian Paricanaza Bravo (colaborador) ► ronald.paricanaza@upch.pe
 Hiroshi Julio Kameya Inafuku (colaborador) ► hiroshi.kameya@upch.pe
 David Sebastian Puma Silva (colaborador) ► david.puma@upch.pe
 Diego Alberto Cuba Monterola (colaborador) ► diego.cuba@upch.pe
-Rogger Huaman	Alejandro Rosas	Hiroshi Kameya
+Paco Aurelio Ronald Paricanaza	Hiroshi Kameya
 A	B	C
 David Puma	Diego Cuba
 D	E
