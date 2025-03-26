@@ -17,7 +17,7 @@
 
 | Foto | Descripción | 
 |----------|----------|
-| <image src="/otros/WhatsApp Image 2025-03-26 at 12.32.45.jpeg"     | Soy Paco Castillo, deseo especializarme en la rama de Ingeniería Clínica.    | 
+| <image src="/otros/WhatsApp Image 2025-03-26 at 12.32.45.jpeg" >    | Soy Paco Castillo, deseo especializarme en la rama de Ingeniería Clínica.    | 
 |    | Soy Milagros Noriega y me interesa la rama de Biomecánica e Ing. Clínica  | 
 | otros/TTulio.png    | Cell 8   | 
 
