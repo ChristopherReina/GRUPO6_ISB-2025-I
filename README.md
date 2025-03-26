@@ -5,7 +5,7 @@ Tabla de contenidos
 Participantes
 Docentes
 Participantes
-Paco Aurelio Castillo Carreño (colaborador) ► rogger.huaman@upch.pe
+Paco Aurelio Castillo Carreño (colaborador) ► paco.castillo@upch.pe
 Alejandro Javier Rosas Gonzalez Zuñiga (colaborador) ► alejandro.rosas@upch.pe
 Hiroshi Julio Kameya Inafuku (colaborador) ► hiroshi.kameya@upch.pe
 David Sebastian Puma Silva (colaborador) ► david.puma@upch.pe
