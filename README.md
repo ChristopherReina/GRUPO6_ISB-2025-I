@@ -10,7 +10,7 @@
 
 
 - [Paco Aurelio Castillo Carreño](paco.castillo@upch.pe) (colaborador)
-- [Ronald Sebastian Paricanaza Bravo](ronald.paricanaza@upch.pe) (colaborador)
+- [Milagros Jazmin Noriega Rosales](milagros.noriega@upch.pe) (colaborador)
 - [Hiroshi Julio Kameya Inafuku](mailto:hiroshi.kameya@upch.pe) (colaborador)
 - [David Sebastian Puma Silva](mailto:david.puma@upch.pe) (colaborador)
 - [Diego Alberto Cuba Monterola](mailto:diego.cuba@upch.pe) (colaborador)
@@ -18,7 +18,7 @@
 | Foto | Descripción | 
 |----------|----------|
 | <image src="/otros/WhatsApp Image 2025-03-26 at 12.32.45.jpeg"     | Soy Paco Castillo, deseo especializarme en la rama de Ingeniería Clínica.    | 
-| Row 2    | Cell 5   | 
+|    | Soy Milagros Noriega y me interesa la rama de Biomecánica e Ing. Clínica  | 
 | Row 3    | Cell 8   | 
 
 
