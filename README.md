@@ -16,6 +16,14 @@
 - [Diego Alberto Cuba Monterola](mailto:diego.cuba@upch.pe) (colaborador)
 
 
+
+## 👥 :D  Docentes
+
+
+- [Moises Meza](paco.castillo@upch.pe) (profesor)
+- [Ronald Sebastian Paricanaza Bravo](ronald.paricanaza@upch.pe) (colaborador)
+
+
 Bienvenidos al repositorio del Grupo 6 del curso "Introducción a señales Biomédicas"
 Tabla de contenidos
 Participantes
