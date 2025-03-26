@@ -18,7 +18,7 @@
 | Foto | Descripción | 
 |----------|----------|
 | <image src="/otros/WhatsApp Image 2025-03-26 at 12.32.45.jpeg" >    | Soy Paco Castillo, deseo especializarme en la rama de Ingeniería Clínica.    | 
-|    | Soy Milagros Noriega y me interesa la rama de Biomecánica e Ing. Clínica  | 
+|   <image src="/otros/Milagros_Noriega.jpg"> | Soy Milagros Noriega y me interesa la rama de Biomecánica e Ing. Clínica  | 
 | <image src="/otros/TTulio.png" >   | Cell 8   | 
 
 
@@ -53,5 +53,5 @@ Jose Alonso Caceres Del Aguila
 | Foto | Descripción | 
 |----------|----------|
 | <image src="/otros/WhatsApp Image 2025-03-26 at 12.32.45.jpeg"     | Soy Paco Castillo, deseo especializarme en la rama de Ingeniería Clínica.    | 
-| Row 2    | Cell 5   | 
+| Row     | Cell 5   | 
 | Row 3    | Cell 8   | 
