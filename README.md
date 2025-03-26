@@ -15,13 +15,19 @@
 - [David Sebastian Puma Silva](mailto:david.puma@upch.pe) (colaborador)
 - [Diego Alberto Cuba Monterola](mailto:diego.cuba@upch.pe) (colaborador)
 
+| Foto | Descripción | 
+|----------|----------|
+| <image src="/otros/WhatsApp Image 2025-03-26 at 12.32.45.jpeg"     | Soy Paco Castillo, deseo especializarme en la rama de Ingeniería Clínica.    | 
+| Row 2    | Cell 5   | 
+| Row 3    | Cell 8   | 
 
 
-## 👥 :D  Docentes
+##  Docentes
 
 
-- [Moises Meza](paco.castillo@upch.pe) (profesor)
-- [Ronald Sebastian Paricanaza Bravo](ronald.paricanaza@upch.pe) (colaborador)
+-Moises Stevend Meza Rodriguez
+-Umbert Lewis De la Cruz Rodriguez
+-Jose Alonso Caceres Del Aguila
 
 
 Bienvenidos al repositorio del Grupo 6 del curso "Introducción a señales Biomédicas"
