@@ -9,7 +9,7 @@
 ## 👥 Participantes
 
 
-- [¿Paco Aurelio Castillo Carreño](paco.castillo@upch.pe) (colaborador)
+- [Paco Aurelio Castillo Carreño](paco.castillo@upch.pe) (colaborador)
 - [Milagros Jazmin Noriega Rosales](milagros.noriega@upch.pe) (colaborador)
 - [RONALD SEBASTIAN PARICANAZA BRAVO]() (colaborador)
 - [Valeria Katherine Porras Cruzado](mailto:valeria.porras@upch.pe) (colaborador)
