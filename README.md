@@ -1,4 +1,4 @@
-# GRUPO6_ISB-2025-
+# GRUPO6_ISB-2025-I
 
 # Bienvenidos al repositorio del Grupo 6 del curso "Introducción a señales Biomédicas"
 
