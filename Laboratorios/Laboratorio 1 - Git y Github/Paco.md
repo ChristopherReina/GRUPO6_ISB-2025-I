@@ -2,7 +2,7 @@
 
 ## 📑 Opción 1
 - En la esquina superior derecha, selección la opción "New repository"
-<image src="/Laboratorios/Paco/Imagen1.png" >
+<image src="/Laboratorios/Laboratorio 1 - Git y Github/Paco/Imagen1.png" >    
 - Docentes
 
 ## 📑 Opción 2
