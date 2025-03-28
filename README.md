@@ -11,7 +11,7 @@
 
 - [Paco Aurelio Castillo Carreño](paco.castillo@upch.pe) (colaborador)
 - [Milagros Jazmin Noriega Rosales](milagros.noriega@upch.pe) (colaborador)
-- [RONALD SEBASTIAN PARICANAZA BRAVO]() (colaborador)
+- [Ronald Sebastian Paricanaza Bravo]() (colaborador)
 - [Valeria Katherine Porras Cruzado](mailto:valeria.porras@upch.pe) (colaborador)
 - [Christopher Alexander Reina Patiño](mailto:christopher.reina@upch.pe) (colaborador)
 
