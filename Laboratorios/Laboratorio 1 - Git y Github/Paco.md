@@ -1,9 +1,9 @@
 # Opciones para crear un repositorio en Git Hub
 
 ## 📑 Opción 1
-- [Participantes](#participantes)
-- [Docentes](#docentes)
+- [Participantes]
+- [Docentes]
 
 ## 📑 Opción 2
-- [Participantes](#participantes)
-- [Docentes](#docentes)
+- [Participantes]
+- [Docentes]
