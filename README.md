@@ -9,11 +9,11 @@
 ## 👥 Participantes
 
 
-- [Paco Aurelio Castillo Carreño](paco.castillo@upch.pe) (colaborador)
+- [¿Paco Aurelio Castillo Carreño](paco.castillo@upch.pe) (colaborador)
 - [Milagros Jazmin Noriega Rosales](milagros.noriega@upch.pe) (colaborador)
-- [Hiroshi Julio Kameya Inafuku](mailto:hiroshi.kameya@upch.pe) (colaborador)
-- [David Sebastian Puma Silva](mailto:david.puma@upch.pe) (colaborador)
-- [Diego Alberto Cuba Monterola](mailto:diego.cuba@upch.pe) (colaborador)
+- [RONALD SEBASTIAN PARICANAZA BRAVO]() (colaborador)
+- [Valeria Katherine Porras Cruzado](mailto:valeria.porras@upch.pe) (colaborador)
+- [Christopher Alexander Reina Patiño](mailto:christopher.reina@upch.pe) (colaborador)
 
 | Foto | Descripción | 
 |---------|--------|
