@@ -1,7 +1,7 @@
 # Opciones para crear un repositorio en Git Hub
 
 ## 📑 Opción 1
-- [Participantes]
+- En la esquina superior derecha, selección la opción "New repository"
 - [Docentes]
 
 ## 📑 Opción 2
