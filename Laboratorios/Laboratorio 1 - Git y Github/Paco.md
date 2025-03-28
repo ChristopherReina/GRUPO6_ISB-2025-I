@@ -1,5 +1,10 @@
 # Opciones para crear un repositorio en Git Hub
 
+| Opción 01 | Opción 02 | 
+|---------|--------|
+|  Ideal para proyectos en los que participan un número pequeño de desarrolladores.   |   Ideal para proyectos en los que participan un gran número de desarrolladores.  | 
+|  Versátil para subir/trabajar un número pequeño de archivos.   |   Versátil para subir/trabajar un número grande de archivos.  | 
+
 ## 📑 Opción 1
 - En la esquina superior derecha, seleccione la opción "New repository".
 <image src="/Laboratorios/Laboratorio 1 - Git y Github/Paco/Imagen1.png" >   
