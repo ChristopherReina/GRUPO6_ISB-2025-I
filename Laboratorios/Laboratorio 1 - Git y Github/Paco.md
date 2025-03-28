@@ -11,5 +11,8 @@
 <image src="/Laboratorios/Laboratorio 1 - Git y Github/Paco/Imagen3.png" >   
 
 ## 📑 Opción 2
-- [Participantes]
-- [Docentes]
+- En la ventana "Home" de click a la opcción "New".
+<image src="/Laboratorios/Laboratorio 1 - Git y Github/Paco/Imagen4.png" > 
+
+- Asigne un nombre a su repositorio, seleccione la opción público o privado, **NO** seleccione la opción "Add a README file" y finalmente cree el repositorio.
+<image src="/Laboratorios/Laboratorio 1 - Git y Github/Paco/Imagen5.png" > 
