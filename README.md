@@ -27,7 +27,7 @@
 ##  Docentes
 
 
--Moises Stevend Meza Rodriguez
--Umbert Lewis De la Cruz Rodriguez
--Jose Alonso Caceres Del Aguila
+- Moises Stevend Meza Rodriguez
+- Umbert Lewis De la Cruz Rodriguez
+- Jose Alonso Caceres Del Aguila
 
