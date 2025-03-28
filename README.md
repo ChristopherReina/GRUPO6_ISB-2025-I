@@ -20,8 +20,8 @@
 | <image src="/otros/WhatsApp Image 2025-03-26 at 12.32.45.jpeg" >    | Soy Paco Castillo, deseo especializarme en la rama de Ingeniería Clínica.    | 
 |   <image src="/otros/Milagros_Noriega.jpg"> | Soy Milagros Noriega y me interesa la rama de Biomecánica e Ing. Clínica  | 
 | <image src="/otros/TTulio.png" >   | Cell 8   | 
-| <image src="/otros/WhatsApp Image 2025-03-26 at 12.30.10 PM (1).jpeg" > | Soy Valeria Porras
-| <image src="/otros/WhatsApp Image 2025-03-26 at 12.37.51 PM.jpeg" > | Soy Christopher Reina
+| <image src="/otros/WhatsApp Image 2025-03-26 at 12.30.10 PM (1).jpeg" > | Soy Valeria Porras, WIWIWI
+| <image src="/otros/WhatsApp Image 2025-03-26 at 12.37.51 PM.jpeg" > | Soy Christopher Reina, estudiante de la carrera de Ing. Biomédica y encuentro interés por el desarrollo de nuevas tecnologías y soluciones en el campo de la salud.
 
 
 ##  Docentes
