@@ -4,7 +4,7 @@ Existen dos maneras principales de crear un repositorio en GitHub:
 
 ### 1. Mediante la Línea de Comandos (CLI) - Ideal para Empresas
 
-Este método es más eficiente para proyectos grandes y empresas porque permite automatizar tareas y manejar grandes volúmenes de código.
+Este método es más eficiente para proyectos grandes y empresas porque permite automatizar tareas y manejar grandes volúmenes de código, además de que varios desarrolladores pueden trabajar y editar a la vez con el **Flujo de trabajo que ofrece Git**.
 
 #### Pasos:
 1. **Inicializar un repositorio en local:**
@@ -27,23 +27,6 @@ Este método es más eficiente para proyectos grandes y empresas porque permite 
    ```bash
    git push -u origin main
    ```
-
-### 2. Mediante la Interfaz Gráfica (GUI) - Ideal para Proyectos Pequeños
-
-Si el proyecto no requiere una gestión avanzada, GitHub ofrece una manera sencilla mediante su interfaz gráfica:
-
-#### Pasos:
-1. Iniciar sesión en [GitHub](https://github.com/).
-2. Hacer clic en **New Repository**.
-3. Completar los detalles del repositorio (nombre, descripción, visibilidad).
-4. Elegir si incluir un archivo README y una licencia.
-5. Hacer clic en **Create Repository**.
-6. Copiar el enlace del repositorio y clonar si se desea trabajar en local:
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
-   ```
-
----
 
 ## Flujo de Trabajo en Git
 
@@ -87,3 +70,22 @@ En Git, los archivos pasan por varias etapas antes de ser enviados al repositori
    ```bash
    git pull origin main
    ```
+
+### 2. Mediante la Interfaz Gráfica (GUI) - Ideal para Proyectos Pequeños
+
+Si el proyecto no requiere una gestión avanzada y también si no se tiene mucha experiencia o dominio de Git, GitHub es una manera más sencilla ya que se trabaja mediante su interfaz gráfica, donde se pueden ver y buscar los iconos para el trabajo con mayor comodidad:
+
+#### Pasos:
+1. Iniciar sesión en [GitHub](https://github.com/).
+2. Hacer clic en **New Repository**.
+3. Completar los detalles del repositorio (nombre, descripción, visibilidad).
+4. Elegir si incluir un archivo README y una licencia.
+5. Hacer clic en **Create Repository**.
+6. Copiar el enlace del repositorio y clonar si se desea trabajar en local:
+   ```bash
+   git clone https://github.com/usuario/repositorio.git
+   ```
+
+---
+
+
