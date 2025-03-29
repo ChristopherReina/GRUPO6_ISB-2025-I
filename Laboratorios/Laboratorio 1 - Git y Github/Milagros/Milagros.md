@@ -79,9 +79,24 @@ Si el proyecto no requiere una gestión avanzada y también si no se tiene mucha
   
    <image src="/Laboratorios/Laboratorio 1 - Git y Github/Milagros/New_repository.jpeg" >
 4. Completar los detalles del repositorio (nombre, descripción, visibilidad).
-5. Elegir si incluir un archivo README y una licencia.
-6. Hacer clic en **Create Repository**.
-7. Copiar el enlace del repositorio y clonar si se desea trabajar en local:
+
+   <image src="/Laboratorios/Laboratorio 1 - Git y Github/Milagros/Change.jpeg" >
+6. Elegir si incluir un archivo README y una licencia.
+
+   <image src="/Laboratorios/Laboratorio 1 - Git y Github/Milagros/readme.jpeg" >
+
+   Recomendado porque:
+   - **Evita errores al clonar**: Un repositorio vacío no se puede clonar sin archivos iniciales.  
+   - **Facilita la documentación**: Explica el propósito del proyecto y cómo usarlo.  
+   - **Mejora la presentación**: GitHub muestra el README.md en la página principal.  
+   - **Previene conflictos al hacer `git push`**: Si el repo ya tiene una rama principal, evitas errores de sincronización.  
+   - **Guía para colaboradores**: Sirve como referencia rápida para nuevos desarrolladores.  
+
+   **Entonces** -> Siempre agregar un README.md para evitar problemas y documentar el proyecto desde el inicio.  
+8. Hacer clic en **Create Repository**.
+
+   <image src="/Laboratorios/Laboratorio 1 - Git y Github/Milagros/create.jpeg" >
+10. Copiar el enlace del repositorio y clonar si se desea trabajar en local:
    ```bash
    git clone https://github.com/usuario/repositorio.git
    ```
