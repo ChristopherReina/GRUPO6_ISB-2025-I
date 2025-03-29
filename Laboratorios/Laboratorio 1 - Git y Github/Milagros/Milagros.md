@@ -78,7 +78,7 @@ Si el proyecto no requiere una gestión avanzada y también si no se tiene mucha
 #### Pasos:
 1. Iniciar sesión en [GitHub](https://github.com/).
 2. Hacer clic en **New Repository**.
-    <image src="/otros/New_repository.jpeg" > 
+    <image src="/Laboratorios/Laboratorio 1 - Git y Github/Milagros/New_repository.jpeg" > 
 4. Completar los detalles del repositorio (nombre, descripción, visibilidad).
 5. Elegir si incluir un archivo README y una licencia.
 6. Hacer clic en **Create Repository**.
