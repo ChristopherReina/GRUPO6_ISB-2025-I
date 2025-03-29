@@ -30,33 +30,31 @@ Este método es más eficiente para proyectos grandes y empresas porque permite 
 
 ## Flujo de Trabajo en Git
 
-En Git, los archivos pasan por varias etapas antes de ser enviados al repositorio remoto:
+El flujo de trabajo en Git se basa en diferentes áreas:
 
-| Estado             | Descripción                                            | Comando para Mover |
-|--------------------|----------------------------------------------------|----------------------|
-| **Working Directory** | Donde se crean y editan los archivos.            | `git add <archivo>`  |
-| **Staging Area**   | Área temporal antes de confirmar los cambios.      | `git commit -m "mensaje"` |
-| **Local Repository** | Confirmación en el repositorio local.             | `git push origin main` |
-| **Remote Repository** | Los cambios se suben a GitHub.                   | `git pull origin main` |
+| **Área**            | **Acción**               | **Comando**            |
+|---------------------|-------------------------|------------------------|
+| **Working Directory** | Modificación de archivos | Edición normal        |
+| **Staging Area**    | Añadir archivos          | `git add <archivo>`   |
+| **Local Repository**| Confirmar cambios       | `git commit -m "Mensaje"` |
+| **Remote Repository** | Subir cambios          | `git push`             |
 
----
 
-## Comandos Claves
+### Explicación de los Comandos 
 
-- **Ver el estado de los archivos:**
-  ```bash
-  git status
-  ```
-- **Descartar cambios en un archivo:**
-  ```bash
-  git checkout -- <archivo>
-  ```
-- **Revertir un commit:**
-  ```bash
-  git reset --soft HEAD~1
-  ```
+- **`git add <archivo>`**: Mueve archivos del **Working Directory** al **Staging Area**.
+- **`git commit -m "mensaje"`**: Mueve archivos del **Staging Area** al **Local Repository**.
+- **`git push origin main`**: Envía los cambios del **Local Repository** al **Remote Repository**.
+- **`git pull origin main`**: Trae los cambios más recientes del repositorio remoto al local.
+- **`git checkout <rama>`**: Cambia de rama o revierte cambios en archivos específicos.
 
----
+### Flujo de Trabajo Representado
+
+```plaintext
+Working Directory → (git add) → Staging Area → (git commit) → Local Repo → (git push) → Remote Repo
+Remote Repo → (git pull) → Local Repo
+Local Repo → (git checkout) → Working Directory
+```
 
 ## Tips Importantes
 
@@ -78,7 +76,7 @@ Si el proyecto no requiere una gestión avanzada y también si no se tiene mucha
 #### Pasos:
 1. Iniciar sesión en [GitHub](https://github.com/).
 2. Hacer clic en **New Repository**.
-    <image src="/Laboratorios/Laboratorio 1 - Git y Github/Milagros/New_repository.jpeg" > 
+   ![Crear un nuevo repositorio] (<image src="/Laboratorios/Laboratorio 1 - Git y Github/Milagros/New_repository.jpeg" >) 
 4. Completar los detalles del repositorio (nombre, descripción, visibilidad).
 5. Elegir si incluir un archivo README y una licencia.
 6. Hacer clic en **Create Repository**.
