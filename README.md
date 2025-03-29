@@ -1,11 +1,11 @@
 # Bienvenidos al repositorio del Grupo 6 del curso "Introducción a señales Biomédicas"
 
 ## 📑 Tabla de contenidos
-- [¿Quiénessomos?](#¿Quiénessomos?)
+- [a a](a-a)
 - [Participantes](#participantes)
 - [Docentes](#docentes)
 
-## ¿Quiénessomos?
+## a a
 Somos un equipo apasionado de estudiantes de ingeniería biomédica dedicados al desarrollo de tecnologías innovadoras y prototipos en el ámbito de la salud. Nuestro objetivo principal es mejorar significativamente la calidad de vida de las personas a través de soluciones biomédicas creativas y eficaces. Estamos comprometidos con la aplicación práctica de nuestros conocimientos, aspirando a ser catalizadores del cambio en el sector de la salud global.
 
 ## Participantes
