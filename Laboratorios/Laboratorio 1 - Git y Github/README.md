@@ -3,8 +3,6 @@
 ## 📑 Tabla de contenidos
 - [Introducción](#Introducción)
 - [Quiénes somos](#Quiénes-somos)
-- [Objetivos del proyecto](#Objetivos-del-proyecto)
-- [Resultados](#Resultados)
 - [Docentes](#docentes)
 
 ## Introducción
@@ -22,9 +20,6 @@ Somos un equipo apasionado de estudiantes de ingeniería biomédica dedicados al
 | <image src="/otros/WhatsApp Image 2025-03-26 at 12.30.10 PM (1).jpeg" > | **Valeria Katherine Porras Cruzado** <br> *valeria.porras@upch.pe* <br> Soy Valeria Porras estudiante de la cerrera de Ing. Biomédica y me interesa el análisis de señales y sus aplicaciones. |
 | <image src="/otros/WhatsApp Image 2025-03-26 at 12.37.51 PM.jpeg" > | **Christopher Alexander Reina Patiño** <br> *christopher.reina@upch.pe* <br> Soy Christopher Reina estudiante de la carrera de Ing. Biomédica y encuentro interés por el desarrollo de nuevas tecnologías y soluciones en el campo de la salud. |
 
-## Objetivos del proyecto
-
-## Resultados
 ##  Docentes
 
 - Moises Stevend Meza Rodriguez
