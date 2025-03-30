@@ -2,12 +2,12 @@
 
 ## 1. Comandos básicos de Git
 
-# **git init**: Inicia un repositorio de git del proyecto.
+**git init**: Inicia un repositorio de git del proyecto.
 ```bash
 git init
 ```
 
-# **git add**: Se utiliza para añadir archivos al **área de preparación** de git.
+**git add**: Se utiliza para añadir archivos al **área de preparación** de git.
 ```bash
 git add pruebita.txt
 ```
