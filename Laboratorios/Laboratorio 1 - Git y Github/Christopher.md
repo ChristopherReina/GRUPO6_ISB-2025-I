@@ -37,4 +37,56 @@ git branch nombre_de_la_rama
 git checkout nombre_de_la_rama
 ```
 
+## 2. Uso de markdown para Github
 
+**Encabezados**: Para crear encabezados, se usa el símbolo de numeral `#`. El número de numerales indica el nivel del encabezado.
+```markdown
+# Encabezado nivel 1
+## Encabezado nivel 2
+### Encabezado nivel 3
+```
+---
+**Texto en Negrita y Cursiva**: Se puede enfatizar el texto usando asteriscos o guiones bajos.
+
+- **Negrita**: Usa dos asteriscos `**texto**` o guiones bajos `__texto__`. <br>
+  **Este es un texto en negrita**
+- *Cursiva*: Usa un asterisco `*texto*` o un guion bajo `_texto_`. <br>
+  *Este es un texto en cursiva*
+
+---
+**Listas**
+
+Usa asteriscos `*` o guiones `-` antes de cada elemento.
+```markdown
+* Elemento 1
+* Elemento 2
+  * Sub-elemento
+```
+
+Para listas ordenadas se usa números seguidos por un punto.
+```markdown
+1. Primer elemento
+2. Segundo elemento
+   1. Sub-elemento
+```
+---
+**Enlaces e Imágenes**
+
+- **Enlaces**: `[texto del enlace](URL)`
+- **Imágenes**: `![texto alternativo](URL_de_la_imagen)`
+
+
+[Enlace a Google](https://www.google.com)
+
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+---
+**Bloques de Código**
+
+Para incluir bloques de código, usa tres acentos invertidos ```` ``` ````.
+
+```markdown
+def hola_mundo():
+    print("¡Hola, mundo!")
+```
