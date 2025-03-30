@@ -36,7 +36,7 @@ git branch nombre_de_la_rama
 ```bash
 git checkout nombre_de_la_rama
 ```
-
+---
 ## 2. Uso de markdown para Github
 
 **Encabezados**: Para crear encabezados, se usa el símbolo de numeral `#`. El número de numerales indica el nivel del encabezado.
@@ -90,3 +90,16 @@ Para incluir bloques de código, usa tres acentos invertidos ```` ``` ````.
 def hola_mundo():
     print("¡Hola, mundo!")
 ```
+---
+## 3. Creación de repositorio en Github
+
+Ir a la parte derecha de la web donde aparecerá la opción de “New Repository”
+imagen 1
+Seguidamente aparecerá lo siguiente, aquí se recomienda llenar todos los campos como 
+nombre del repositorio, descripción, establecerlo modopúblico y adicionar un Readme file.
+Luego ya se tendrá un repositorio listo para ser modificado en
+contenido.
+imagen2
+Finalmente habremos creado nuestro repositorio
+imagen3
+
