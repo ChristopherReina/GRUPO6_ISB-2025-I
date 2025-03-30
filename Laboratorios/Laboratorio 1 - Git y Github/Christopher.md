@@ -17,12 +17,12 @@ git add pruebita.txt
 git commit -m "actualización"
 ```
 
-**git push **: Después de comprometerse con los cambios, puede enviarlos al **repositorio remoto** utilizando push.
+**git push**: Después de comprometerse con los cambios, puede enviarlos al **repositorio remoto** utilizando push.
 ```bash
 git push nombre_del_remoto nombre_de_la_rama
 ```
 
-**git pull **:  Se utiliza para descargar los cambios más recientes del **servidor remoto**.
+**git pull**:  Se utiliza para descargar los cambios más recientes del **servidor remoto**.
 ```bash
 git pull nombre_del_remoto nombre_de_la_rama
 ```
