@@ -38,8 +38,3 @@ git checkout nombre_de_la_rama
 ```
 
 
-Please follow the established workflow and coding conventions when contributing to this repository.  Write clear commit messages and participate in code reviews.
-
-## License
-
-[Add your license information here]
