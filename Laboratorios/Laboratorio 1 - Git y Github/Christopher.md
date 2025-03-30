@@ -93,13 +93,15 @@ def hola_mundo():
 ---
 ## 3. Creación de repositorio en Github
 
-Ir a la parte derecha de la web donde aparecerá la opción de “New Repository”
-imagen 1
-Seguidamente aparecerá lo siguiente, aquí se recomienda llenar todos los campos como 
-nombre del repositorio, descripción, establecerlo modopúblico y adicionar un Readme file.
-Luego ya se tendrá un repositorio listo para ser modificado en
-contenido.
-imagen2
+Ir a la parte derecha de la web donde aparecerá la opción de “New Repository” <br>
+
+---
+<image src="/Laboratorios/Laboratorio 1 - Git y Github/Christopher/tutorial_img1.png" > <br>
+
+Seguidamente aparecerá lo siguiente, aquí se recomienda llenar todos los campos como nombre del repositorio, descripción, establecerlo modopúblico y adicionar un Readme file. Luego ya se tendrá un repositorio listo para ser modificado encontenido. <br>
+
+---
+<image src="/Laboratorios/Laboratorio 1 - Git y Github/Christopher/tutorial_img2.png" > <br>
+
 Finalmente habremos creado nuestro repositorio
-imagen3
 
