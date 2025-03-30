@@ -17,7 +17,7 @@
    - Arrastra y suelta los archivos que deseas subir
      o haz clic en choose your files (seleccionar archivos) para buscarlos en tu computadora. En la sección Commit changes (Confirmar cambios), escribe un mensaje breve
      que describa los cambios realizados (por ejemplo, "Agregar archivo README"). Finalmente, Haz clic en Commit changes (Confirmar cambios) para guardar los archivos en el repositorio.
-   <image src="//Laboratorios/Laboratorio 1 - Git y Github/Valeria/photos/git4.png" >
+    <image src="/Laboratorios/Laboratorio 1 - Git y Github/Valeria/photos/git4.png" >
      
    **Método 2: Usando Git**<br>
    - `git clone https://github.com/tu-usuario/tu-repositorio.git` Clonar un repositorio
