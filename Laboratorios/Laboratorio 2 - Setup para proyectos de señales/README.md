@@ -10,13 +10,16 @@ Para crear un entorno virtual se debe seguir los siguientes pasos:
 
 
 ## 📑 Ploteo de señales ECG y EMG
+
+Se seguirá utilizando el terminal CMD para lo siguiente:
+
 - La instrucción "pip instal NeuroKit2" nos permite instalar la ultima librería de NeuroKit.
 <image src="/Laboratorios/Laboratorio 2 - Setup para proyectos de señales/Fotos/Imagen2.png" >  
 
 - También será necesario instalar la librería "Seaborn"
 <image src="/Laboratorios/Laboratorio 2 - Setup para proyectos de señales/Fotos/Imagen3.png" > 
 
-- El código para plotear las señales se almacenará dentro de la carpeta que tiene las librerías. 
+- El código para plotear las señales se almacenará dentro de la carpeta que contiene las librerías. 
 
 **ECG**
 
