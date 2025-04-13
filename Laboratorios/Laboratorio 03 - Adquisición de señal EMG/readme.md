@@ -152,26 +152,32 @@ Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron tra
 - El análisis frecuencial se limitó hasta la **frecuencia de Nyquist** (500 Hz), de acuerdo con la frecuencia de muestreo de 1000 Hz del dispositivo BITalino.
 
 ## **Resultados y limitaciones** <a name="id10"></a>
-**Actividad del músculo en reposo**  <br>
+**Actividad en reposo del músculo**  <br>
 En el software open signals se observa la señal  EMG con múltiples picos de amplitud muy pequeña, además se presenta una señal uniforme, que no sugiere cambios en la actividad muscular. En reposo, teóricamente se debe observar un silencio eléctrico, sin embargo, se observan pequeñas fluctuaciones en la señal debido al ruido basal. <br>
-
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/reposo1.jpeg"> <br>
 En las señales procesadas del bíceps se observan 6 picos continuos en un tiempo de 100 ms, con una amplitud de -1 mV a 1 mV. 
-En cuanto al deltoides la amplitud de los picos varía en las 3 mediciones, pero estos se encuentran más desordenados, sugiriendo mayor presencia de ruido.
+En cuanto al deltoides la amplitud de los picos varía en las 3 mediciones, pero estos se encuentran más desordenados, sugiriendo mayor presencia de ruido. <br>
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/reposo2.jpeg"> <br>
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/reposo3.jpeg"> <br>
 
-**Actividad del músculo en actividad mínima** <br>
-En el software open signals, durante la contracción y el estiramiento mínimo de los músculos, se lograron observar múltiples picos cuyas amplitudes fueron mayores a la de los picos en reposo. La aparición de estos picos representa la producción de potenciales de unidad motora.
-En la señal procesada tanto para el bíceps como para el deltoide se encuentran también picos con una amplitud de -1 mV a 1 mV, sin embargo, estos tienen una morfología tosca.
+**Actividad mínima del músculo** <br>
+En el software open signals, durante la contracción y el estiramiento mínimo de los músculos, se lograron observar múltiples picos cuyas amplitudes fueron mayores a la de los picos en reposo. La aparición de estos picos representa la producción de potenciales de unidad motora.<br>
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/aa.jpg"> <br>
+En la señal procesada tanto para el bíceps como para el deltoide se encuentran también picos con una amplitud de -1 mV a 1 mV, sin embargo, estos tienen una morfología tosca. <br>
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/elevacion2.jpeg"> <br>
 
-**Actividad del músculo en actividad máxima** <br>
+**Actividad máxima del músculo** <br>
 En el software open signals, la actividad máxima muscular generó la aparición de múltiples picos de amplitud notoriamente mayor a los registrados anteriormente. Debido al mayor esfuerzo implicado se reclutan más unidades motoras, esto genera una señal EMG de alta amplitud y densidad.<br>
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/fuerza1.jpg"> <br>
 
-En las señales procesadas del bíceps observamos picos que superan los -1 mV y 1 mV, además cuentan con una morfología diferente entre sí, lo que puede representar la superposición de señales
+En las señales procesadas del bíceps observamos picos que superan los -1 mV y 1 mV, además cuentan con una morfología diferente entre sí, lo que puede representar la superposición de señales. <br>
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/fuerza2.jpeg"> <br>
 
 **Limitaciones** <br>
-Las señales EMG pueden contaminarse por el ruido eléctrico ambiental. Debido al ambiente del laboratorio en el que se realizó el trabajo, los celulares y laptops son fuentes posibles de ruido.
-Los campos electromagnéticos producidos por ventiladores o cargadores enchufados también son fuente de ruido para la obtención de la señal.
-La medición de cada nivel de actividad se limitó en tres mediciones por nivel, lo que limita la validez estadística y de los resultados obtenidos.
-La colocación de los electrodos es otra limitante, seguir protocolos como el SENIAM, el cual estandariza la ubicación óptima de electrodos para EMG de superficie en diferentes músculos, garantiza mediciones reproducibles con minimización de ruido. [8]
+- Las señales EMG pueden contaminarse por el ruido eléctrico ambiental. Debido al ambiente del laboratorio en el que se realizó el trabajo, los celulares y laptops son fuentes posibles de ruido.
+- Los campos electromagnéticos producidos por ventiladores o cargadores enchufados también son fuente de ruido para la obtención de la señal.
+- La medición de cada nivel de actividad se limitó en tres mediciones por nivel, lo que limita la validez estadística y de los resultados obtenidos.
+- La colocación de los electrodos es otra limitante, seguir protocolos como el SENIAM, el cual estandariza la ubicación óptima de electrodos para EMG de superficie en diferentes músculos, garantiza mediciones reproducibles con minimización de ruido. [8]
 
 ## **Referencias** <a name="id11"></a>
 [1] Sattar Y, Chhabra L. Electrocardiogram. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
