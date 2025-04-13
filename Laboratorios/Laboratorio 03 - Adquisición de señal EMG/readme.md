@@ -3,11 +3,11 @@
 
 1. [Introducción](#id1)
 2. [Propósito de la práctica](#id2)
-3. [Materiales y metodología](#id3)
-     3.1 [Conexión usada](#id4)
-     3.2 [Video de la señal](#id5)
-     3.3 [Ploteo de la señal en OpenSignal](#id6)
-     3.4 [Archivos](#id7)
+3. [Materiales y metodología](#id3)\
+     3.1 [Conexión usada](#id4)\
+     3.2 [Video de la señal](#id5)\
+     3.3 [Ploteo de la señal en OpenSignal](#id6)\
+     3.4 [Archivos](#id7)\
 4. [Resultados y limitaciones](#id8)
 5. [Referencias](#id9)
 
