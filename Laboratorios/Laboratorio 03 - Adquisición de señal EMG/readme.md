@@ -41,6 +41,24 @@ La EMG evalúa la excitabilidad y las contracciones musculares tanto en condicio
 
 ## **Materiales y metodología** <a name="id3"></a>
 
+### Materiales Utilizados
+Para la realización del presente laboratorio se utilizaron los siguientes equipos y materiales:
+
+- 1 Kit **BITalino (r)evolution** (versión Bluetooth)  
+- 1 Módulo de electromiografía (EMG) incluido en el BITalino  
+- 1 Cable de tres conductores  
+- 3 Electrodos adhesivos de superficie  
+- 1 Batería recargable **LiPo de 3.7V y 500 mA**  
+- 1 Dispositivo móvil (celular) con Bluetooth y el software **OpenSignals (r)evolution** instalado  
+- 1 Computadora personal (PC) para el procesamiento de datos  
+- Pesos manuales para resistencia (aproximadamente 5 kg)
+
+<p align="center">
+  <img src="Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_1.png" alt="BITalino frontal y posterior" width="400"><br>
+  <img src="Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_2.png" alt="Kit completo con electrodos y celular" width="400">
+</p>
+
+### Metodología
 ### 1. Colocación de electrodos
 
 #### 1.1 Bíceps
@@ -52,7 +70,7 @@ Se posicionaron los tres electrodos sobre el bíceps del sujeto de prueba, sigui
 - **Electrodo negativo**: por encima del electrodo positivo.  
 
 **Figura 1.** Colocación de electrodos en bíceps  
-![Colocación en bíceps](ruta/a/la/imagen_biceps.jpg)
+![Colocación en bíceps](Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodos_biceps.png)
 
 ---
 
@@ -65,7 +83,7 @@ De igual manera, se colocaron tres electrodos sobre el deltoides del sujeto de p
 - **Electrodo negativo**: por encima del electrodo positivo.  
 
 **Figura 2.** Colocación de electrodos en deltoides  
-![Colocación en deltoides](ruta/a/la/imagen_deltoides.jpg)
+![Colocación en deltoides](Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodo_deltorides.png)
 
 ---
 
