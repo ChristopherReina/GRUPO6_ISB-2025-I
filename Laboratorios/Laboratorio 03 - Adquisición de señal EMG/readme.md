@@ -71,7 +71,7 @@ Se posicionaron los tres electrodos sobre el bíceps del sujeto de prueba, sigui
 - **Electrodo negativo**: por encima del electrodo positivo.  
 
 **Figura 1.** Colocación de electrodos en bíceps  
-![Colocación en bíceps](Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodos_biceps.png)
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodos_biceps.png">
 
 ---
 
@@ -84,7 +84,7 @@ De igual manera, se colocaron tres electrodos sobre el deltoides del sujeto de p
 - **Electrodo negativo**: por encima del electrodo positivo.  
 
 **Figura 2.** Colocación de electrodos en deltoides  
-![Colocación en deltoides](Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodo_deltorides.png)
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodo_deltorides.png">
 
 ---
 
