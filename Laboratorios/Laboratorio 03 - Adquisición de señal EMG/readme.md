@@ -7,9 +7,9 @@
      3.1 [Materiales Utilizados](#id4)\
      3.2 [Metodología](#id5)\
           3.2.1 [Colocación de electrodos](#id6)\
-          3.2.2 [Configuración del sistema](#id7)
-          3.2.3 [Adquisición de datos](#id8)
-          3.2.3 [Procesamiento de datos](#id9)
+          3.2.2 [Configuración del sistema](#id7)\
+          3.2.3 [Adquisición de datos](#id8)\
+          3.2.3 [Procesamiento de datos](#id9)\
 5. [Resultados y limitaciones](#id10)
 6. [Referencias](#id11)
 
