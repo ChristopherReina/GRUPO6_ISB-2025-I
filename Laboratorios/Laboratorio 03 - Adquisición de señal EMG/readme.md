@@ -4,12 +4,14 @@
 1. [Introducción](#id1)
 2. [Propósito de la práctica](#id2)
 3. [Materiales y metodología](#id3)\
-     3.1 [Conexión usada](#id4)\
-     3.2 [Video de la señal](#id5)\
-     3.3 [Ploteo de la señal en OpenSignal](#id6)\
-     3.4 [Archivos](#id7)
-4. [Resultados y limitaciones](#id8)
-5. [Referencias](#id9)
+     3.1 [Materiales Utilizados](#id4)\
+     3.2 [Metodología](#id5)\
+          3.2.1 [Colocación de electrodos](#id6)\
+          3.2.2 [Configuración del sistema](#id7)
+          3.2.3 [Adquisición de datos](#id8)
+          3.2.3 [Procesamiento de datos](#id9)
+5. [Resultados y limitaciones](#id10)
+6. [Referencias](#id11)
 
 
 
@@ -41,7 +43,7 @@ La EMG evalúa la excitabilidad y las contracciones musculares tanto en condicio
 
 ## **Materiales y metodología** <a name="id3"></a>
 
-### Materiales Utilizados
+### Materiales Utilizados  <a name="id4"></a>
 Para la realización del presente laboratorio se utilizaron los siguientes equipos y materiales:
 
 - 1 Kit **BITalino (r)evolution** (versión Bluetooth)  
@@ -59,10 +61,10 @@ Para la realización del presente laboratorio se utilizaron los siguientes equip
   <img src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_2.png" alt="Kit completo con electrodos y celular" width="400">
 </p>
 
-### Metodología
-### 1. Colocación de electrodos
+### Metodología  <a name="id4"></a>
+### 1. Colocación de electrodos  <a name="id5"></a>
 
-#### 1.1 Bíceps
+#### 1.1 Bíceps  
 
 Se posicionaron los tres electrodos sobre el bíceps del sujeto de prueba, siguiendo las siguientes referencias anatómicas:
 
@@ -75,7 +77,7 @@ Se posicionaron los tres electrodos sobre el bíceps del sujeto de prueba, sigui
 
 ---
 
-#### 1.2 Deltoides
+#### 1.2 Deltoides  
 
 De igual manera, se colocaron tres electrodos sobre el deltoides del sujeto de prueba:
 
@@ -88,13 +90,13 @@ De igual manera, se colocaron tres electrodos sobre el deltoides del sujeto de p
 
 ---
 
-### 2. Configuración del sistema
+### 2. Configuración del sistema  <a name="id6"></a>
 
 El kit **BITalino** fue encendido y vinculado mediante Bluetooth al dispositivo móvil. Se utilizó la aplicación **OpenSignals (r)evolution** para la adquisición y visualización en tiempo real de la señal EMG. Las grabaciones fueron almacenadas en archivos `.txt` para su posterior análisis.
 
 ---
 
-### 3. Adquisición de datos
+### 3. Adquisición de datos  <a name="id7"></a>
 
 #### 3.1 Bíceps
 
@@ -111,7 +113,7 @@ La recolección de datos se dividió en tres etapas:
 
 ---
 
-### 4. Procesamiento de datos
+### 4. Procesamiento de datos  <a name="id8"></a>
 
 Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron transferidos a una computadora personal para su análisis. Se utilizó el entorno de desarrollo **Anaconda**, ejecutando un **Jupyter Notebook**, con un script en Python. Las bibliotecas empleadas fueron: `os`, `pandas`, `numpy`, `matplotlib.pyplot` y `scipy.signal`.
 
@@ -140,16 +142,6 @@ Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron tra
 - Se graficó el espectro de frecuencias obtenido mediante la FFT.
 - El análisis frecuencial se limitó hasta la **frecuencia de Nyquist** (500 Hz), de acuerdo con la frecuencia de muestreo de 1000 Hz del dispositivo BITalino.
 
-### **Conexión usada** <a name="id4"></a>
-
-### **Video de la señal** <a name="id5"></a>
-
-### **Ploteo de la señal en OpenSignal** <a name="id6"></a>
-
-### **Archivos** <a name="id7"></a>
-
-## **Resultados y limitaciones** <a name="id8"></a>
-
-## **Referencias** <a name="id9"></a>
+## **Referencias** <a name="id11"></a>
 [1] Sattar Y, Chhabra L. Electrocardiogram. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
 [2] Ramani PK, Lui F, Arya K. Nerve conduction studies and electromyography. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
