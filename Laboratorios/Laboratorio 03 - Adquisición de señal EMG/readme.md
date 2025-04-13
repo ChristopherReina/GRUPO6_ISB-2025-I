@@ -3,7 +3,7 @@
 
 1. [Introducción](#id1)
 
-*ECG*
+**ECG**
 
 El electrocardiograma (abreviado como ECG o EKG) representa un trazado eléctrico del corazón y se registra de forma no invasiva desde la superficie del cuerpo.
 
@@ -17,7 +17,7 @@ Las pruebas electro-diagnósticas son técnicas electrofisiológicas que se util
 
 La EMG evalúa la excitabilidad y las contracciones musculares tanto en condiciones fisiológicas como patológicas. Se clasifica principalmente en dos tipos: EMG de superficie no invasiva y EMG intramuscular con aguja invasiva. La EMG de superficie evalúa una amplia zona muscular accesible y se utiliza principalmente durante los registros NCS de CMAP. La EMG intramuscular con aguja, realizada por médicos con formación en electrodiagnóstico, proporciona una evaluación más detallada de la función muscular y nerviosa.
 
-*EMG*
+**EMG**
 
 2. [Propósito de la práctica](#id2)
 3. [Materiales y metodología](#id3)\
