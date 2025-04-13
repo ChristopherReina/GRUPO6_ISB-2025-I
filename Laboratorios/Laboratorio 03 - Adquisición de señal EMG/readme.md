@@ -14,13 +14,16 @@
 
 
 ## **Introducción** <a name="id1"></a>
-* Adquirir señales biomédicas de EMG y ECG.
-* Hacer una correcta configuración de BiTalino.
-* Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution
+
 
 
 
 ## **Propósito de la práctica** <a name="id2"></a>
+
+* Adquirir y entender la obtención de señales EMG y ECG.
+* Realizar una correcta configuración de BiTalino.
+* Extraer la información de las señales EMG del software OpenSignals (r)evolution.
+* Analizar los resultados obtenidos.
 
 ## **Materiales y metodología** <a name="id3"></a>
 
