@@ -54,8 +54,9 @@ Para la realización del presente laboratorio se utilizaron los siguientes equip
 - Pesos manuales para resistencia (aproximadamente 5 kg)
 
 <p align="center">
-  <img src="Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_1.png" alt="BITalino frontal y posterior" width="400"><br>
-  <img src="Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_2.png" alt="Kit completo con electrodos y celular" width="400">
+    
+  <img src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_1.png" alt="BITalino frontal y posterior" width="400"><br>
+  <img src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_2.png" alt="Kit completo con electrodos y celular" width="400">
 </p>
 
 ### Metodología
