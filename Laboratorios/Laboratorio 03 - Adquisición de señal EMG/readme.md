@@ -52,5 +52,5 @@ La EMG evalúa la excitabilidad y las contracciones musculares tanto en condicio
 ## **Resultados y limitaciones** <a name="id8"></a>
 
 ## **Referencias** <a name="id9"></a>
-[1] Sattar Y, Chhabra L. Electrocardiogram. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.
+[1] Sattar Y, Chhabra L. Electrocardiogram. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
 [2] Ramani PK, Lui F, Arya K. Nerve conduction studies and electromyography. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.
