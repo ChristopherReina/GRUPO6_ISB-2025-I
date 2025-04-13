@@ -61,8 +61,8 @@ Para la realización del presente laboratorio se utilizaron los siguientes equip
   <img src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/materiales_2.png" alt="Kit completo con electrodos y celular" width="400">
 </p>
 
-### Metodología  <a name="id4"></a>
-### 1. Colocación de electrodos  <a name="id5"></a>
+### Metodología  <a name="id5"></a>
+### 1. Colocación de electrodos <a name="id6"></a>
 
 #### 1.1 Bíceps  
 
@@ -90,13 +90,13 @@ De igual manera, se colocaron tres electrodos sobre el deltoides del sujeto de p
 
 ---
 
-### 2. Configuración del sistema  <a name="id6"></a>
+### 2. Configuración del sistema  <a name="id7"></a>
 
 El kit **BITalino** fue encendido y vinculado mediante Bluetooth al dispositivo móvil. Se utilizó la aplicación **OpenSignals (r)evolution** para la adquisición y visualización en tiempo real de la señal EMG. Las grabaciones fueron almacenadas en archivos `.txt` para su posterior análisis.
 
 ---
 
-### 3. Adquisición de datos  <a name="id7"></a>
+### 3. Adquisición de datos  <a name="id8"></a>
 
 #### 3.1 Bíceps
 
@@ -113,7 +113,7 @@ La recolección de datos se dividió en tres etapas:
 
 ---
 
-### 4. Procesamiento de datos  <a name="id8"></a>
+### 4. Procesamiento de datos  <a name="id9"></a>
 
 Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron transferidos a una computadora personal para su análisis. Se utilizó el entorno de desarrollo **Anaconda**, ejecutando un **Jupyter Notebook**, con un script en Python. Las bibliotecas empleadas fueron: `os`, `pandas`, `numpy`, `matplotlib.pyplot` y `scipy.signal`.
 
