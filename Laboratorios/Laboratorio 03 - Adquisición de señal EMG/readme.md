@@ -142,6 +142,8 @@ Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron tra
 - Se graficó el espectro de frecuencias obtenido mediante la FFT.
 - El análisis frecuencial se limitó hasta la **frecuencia de Nyquist** (500 Hz), de acuerdo con la frecuencia de muestreo de 1000 Hz del dispositivo BITalino.
 
+## **Resultados y limitaciones** <a name="id10"></a>
+
 ## **Referencias** <a name="id11"></a>
 [1] Sattar Y, Chhabra L. Electrocardiogram. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
 [2] Ramani PK, Lui F, Arya K. Nerve conduction studies and electromyography. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
