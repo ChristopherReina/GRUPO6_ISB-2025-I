@@ -41,6 +41,69 @@ La EMG evalúa la excitabilidad y las contracciones musculares tanto en condicio
 
 ## **Materiales y metodología** <a name="id3"></a>
 
+### 1. Colocación de electrodos
+
+#### 1.1 Bíceps
+
+Se posicionaron los tres electrodos sobre el bíceps del sujeto de prueba, siguiendo las siguientes referencias anatómicas:
+
+- **Electrodo positivo**: sobre el vientre muscular del bíceps.  
+- **Electrodo de referencia**: en la parte distal del músculo, cerca del codo.  
+- **Electrodo negativo**: por encima del electrodo positivo.  
+
+**Figura 1.** Colocación de electrodos en bíceps  
+![Colocación en bíceps](ruta/a/la/imagen_biceps.jpg)
+
+---
+
+#### 1.2 Deltoides
+
+De igual manera, se colocaron tres electrodos sobre el deltoides del sujeto de prueba:
+
+- **Electrodo positivo**: sobre el vientre muscular del deltoides.  
+- **Electrodo de referencia**: en el codo.  
+- **Electrodo negativo**: por encima del electrodo positivo.  
+
+**Figura 2.** Colocación de electrodos en deltoides  
+![Colocación en deltoides](ruta/a/la/imagen_deltoides.jpg)
+
+---
+
+### 2. Configuración del sistema
+
+El kit **BITalino** fue encendido y vinculado mediante Bluetooth al dispositivo móvil. Se utilizó la aplicación **OpenSignals (r)evolution** para la adquisición y visualización en tiempo real de la señal EMG. Las grabaciones fueron almacenadas en archivos `.txt` para su posterior análisis.
+
+---
+
+### 3. Adquisición de datos
+
+#### 3.1 Bíceps
+
+La recolección de datos se dividió en tres etapas:
+
+- **Reposo muscular**: tres sesiones de 30 segundos con el brazo completamente relajado sobre la mesa.  
+- **Contracción dinámica libre**: tres sesiones de 30 segundos realizando movimientos de elevación y descenso del brazo sin peso.  
+- **Contracción isométrica con resistencia**: tres sesiones de 30 segundos intentando levantar el brazo mientras se aplicaba una resistencia manual.
+
+#### 3.2 Deltoides
+
+- **Reposo**: tres sesiones de 30 segundos en estado de relajación.  
+- **Contracción dinámica con peso**: tres sesiones de 20 segundos realizando elevaciones y descensos del brazo con una carga externa (aprox. 4 kg).
+
+---
+
+### 4. Procesamiento de datos
+
+Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron transferidos a una computadora personal para su análisis. Se utilizó el entorno de desarrollo **Anaconda**, ejecutando un **Jupyter Notebook**, con un script en Python. Las bibliotecas empleadas fueron:
+
+```python
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.signal import butter, filtfilt
+
+
 ### **Conexión usada** <a name="id4"></a>
 
 ### **Video de la señal** <a name="id5"></a>
