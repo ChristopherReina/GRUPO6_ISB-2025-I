@@ -113,16 +113,32 @@ La recolección de datos se dividió en tres etapas:
 
 ### 4. Procesamiento de datos
 
-Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron transferidos a una computadora personal para su análisis. Se utilizó el entorno de desarrollo **Anaconda**, ejecutando un **Jupyter Notebook**, con un script en Python. Las bibliotecas empleadas fueron:
+Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron transferidos a una computadora personal para su análisis. Se utilizó el entorno de desarrollo **Anaconda**, ejecutando un **Jupyter Notebook**, con un script en Python. Las bibliotecas empleadas fueron: `os`, `pandas`, `numpy`, `matplotlib.pyplot` y `scipy.signal`.
 
-```python
-import os
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from scipy.signal import butter, filtfilt
+#### 4.1 Lectura de archivos
 
-```
+- Se recorrieron los archivos `.txt` almacenados localmente.
+- Se identificó la cabecera `"EndOfHeader"` para ubicar el inicio de los datos.
+- La señal EMG se extrajo del canal analógico **A1**.
+
+#### 4.2 Preprocesamiento de la señal
+
+- **Centrado**: se eliminó el componente de continua (DC) restando la media de la señal.
+- **Normalización**: la señal fue escalada entre -1 y 1.
+- **Filtrado pasa banda**: se aplicó un filtro Butterworth de orden 4 con un rango de 20 a 450 Hz, eliminando frecuencias no representativas del EMG.
+
+#### 4.3 Análisis en ventana de 100 ms
+
+- Se seleccionó una ventana de 0.1 segundos desde el inicio de la señal filtrada.
+- Se generó un eje de tiempo correspondiente a dicho intervalo.
+- Se graficó la señal EMG en el dominio del tiempo.
+- Se calculó la **Transformada Rápida de Fourier (FFT)** y se representó en escala de decibelios (dB).
+
+#### 4.4 Visualización
+
+- Se representó la señal EMG filtrada correspondiente a los primeros 100 ms.
+- Se graficó el espectro de frecuencias obtenido mediante la FFT.
+- El análisis frecuencial se limitó hasta la **frecuencia de Nyquist** (500 Hz), de acuerdo con la frecuencia de muestreo de 1000 Hz del dispositivo BITalino.
 
 ### **Conexión usada** <a name="id4"></a>
 
