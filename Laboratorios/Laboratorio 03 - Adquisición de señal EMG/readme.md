@@ -8,10 +8,14 @@
      3.2 [Metodología](#id5)\
           3.2.1 [Colocación de electrodos](#id6)\
           3.2.2 [Configuración del sistema](#id7)\
-          3.2.3 [Adquisición de datos](#id8)\
-          3.2.3 [Procesamiento de datos](#id9)
-5. [Resultados y limitaciones](#id10)
-6. [Referencias](#id11)
+          3.2.3 [Adquisición de datos](#id8)
+4. [Procesamiento de datos](#id9)\
+     4.1 [Lectura de archivos](#id10)\
+     4.2 [Preprocesamiento de la señal](#id11)\
+     4.3 [Análisis en ventana de 100 ms](#id12)\
+     4.4 [Visualización](#id13)
+6. [Resultados y limitaciones](#id14)
+7. [Referencias](#id15)
 
 
 
@@ -115,7 +119,12 @@ La recolección de datos se dividió en tres etapas:
 
 ### 4. Procesamiento de datos  <a name="id9"></a>
 
-Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron transferidos a una computadora personal para su análisis. Se utilizó el entorno de desarrollo **Anaconda**, ejecutando un **Jupyter Notebook**, con un script en Python. Las bibliotecas empleadas fueron: `os`, `pandas`, `numpy`, `matplotlib.pyplot` y `scipy.signal`.
+Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron transferidos a una computadora personal para su análisis. Se utilizó el entorno de desarrollo **Anaconda**, ejecutando un **Jupyter Notebook**, con un script en Python. Las bibliotecas empleadas fueron: 
+- `os` : Proporciona funciones para interactuar con el sistema operativo, como listar archivos en un directorio. [3]
+- `pandas`: Permite la manipulación y el análisis de datos. Se utiliza para leer los datos de los archivos .txt. [4]
+- `numpy`: Proporciona soporte para arrays, funciones matemáticas y más. [5]
+- `matplotlib.pyplot`: Permite crear visualizaciones como gráficos. [6]
+- `scipy.signal`: Un sub-módulo de SciPy que proporciona herramientas de procesamiento de señales, incluyendo funciones para diseñar y aplicar filtros. `butter` se utiliza para crear un filtro Butterworth, y `filtfilt` aplica el filtro. [7]
 
 #### 4.1 Lectura de archivos
 
@@ -147,3 +156,11 @@ Los archivos obtenidos desde el software **OpenSignals (r)evolution** fueron tra
 ## **Referencias** <a name="id11"></a>
 [1] Sattar Y, Chhabra L. Electrocardiogram. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
 [2] Ramani PK, Lui F, Arya K. Nerve conduction studies and electromyography. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025.\
+[3] Python documentation [Internet]. [citado el 12 de abril de 2025]. os — Miscellaneous operating system interfaces. \
+[4] The pandas development team. pandas-dev/pandas: Pandas [Internet] 2025. \
+[5] numpy/numpy: The fundamental package for scientific computing with Python. [Internet]. \
+[6] Hunter JD. Matplotlib: A 2D graphics environment [Internet]. Vol. 9, Computing in Science & Engineering. 2007. p. 90–5. \
+[7] scipy/scipy [Internet]. SciPy; 2025.
+
+
+
