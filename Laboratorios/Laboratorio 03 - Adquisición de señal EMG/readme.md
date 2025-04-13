@@ -13,11 +13,11 @@ El principio fundamental detrás del registro de un ECG es una fuerza, corriente
 - Una corriente de repolarización que se aleja del electrodo positivo se considera una desviación positiva y que se dirige hacia un electrodo positivo se considera una desviación negativa.
 - Cuando la corriente es perpendicular al electrodo, toca la línea base y produce una onda bifásica.
 
+**EMG**
+
 Las pruebas electro-diagnósticas son técnicas electrofisiológicas que se utilizan para evaluar la función y la integridad de los componentes neuromusculares, incluyendo los nervios periféricos, las raíces nerviosas, los plexos, la unión neuromuscular (UNM) y los músculos. Estas pruebas se clasifican en dos tipos principales: electromiografía de aguja (EMG) y estudios de conducción nerviosa (ECN).
 
 La EMG evalúa la excitabilidad y las contracciones musculares tanto en condiciones fisiológicas como patológicas. Se clasifica principalmente en dos tipos: EMG de superficie no invasiva y EMG intramuscular con aguja invasiva. La EMG de superficie evalúa una amplia zona muscular accesible y se utiliza principalmente durante los registros NCS de CMAP. La EMG intramuscular con aguja, realizada por médicos con formación en electrodiagnóstico, proporciona una evaluación más detallada de la función muscular y nerviosa.
-
-**EMG**
 
 2. [Propósito de la práctica](#id2)
 3. [Materiales y metodología](#id3)\
