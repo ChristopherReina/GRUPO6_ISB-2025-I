@@ -84,7 +84,7 @@ De igual manera, se colocaron tres electrodos sobre el deltoides del sujeto de p
 - **Electrodo negativo**: por encima del electrodo positivo.  
 
 **Figura 2.** Colocación de electrodos en deltoides  
-<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodo_deltorides.png">
+<image src="/Laboratorios/Laboratorio 03 - Adquisición de señal EMG/Fotos_EMG/electrodo_deltoides.png">
 
 ---
 
