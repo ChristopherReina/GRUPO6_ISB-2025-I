@@ -31,7 +31,7 @@
 [AGREGAR IMAGEN ECG]
 
 |  **Segmento**  | **Descripción** |
-|:------------:|:---------------:|:------------:|
+|:------------:|:---------------:|
 | Onda P |  La onda P representa la despolarización auricular.  |  
 | Intervalo PR |  El intervalo PR es el período entre el comienzo de la despolarización auricular y la despolarización ventricular.  |  
 | Complejo QRS |    Representa la despolarización ventricular.    | 
