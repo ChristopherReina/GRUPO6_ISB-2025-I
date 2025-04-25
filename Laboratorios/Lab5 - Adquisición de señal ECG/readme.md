@@ -109,7 +109,7 @@
 
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-<p align="justify">Se 
+<p align="justify"> P
 
      a)   Estado basal</p>
 <p align="center"><img src="[direccion]" width="600" height="300"></p>
@@ -132,16 +132,16 @@
 </div>
      
 ## **Conclusiones** <a name="id10"></a>
-* La 
+* P
 
-* 
+* P
 
-* Para
+* P
 
-* Así 
+* P
 
 ---
 ## **Referencias** <a name="id11"></a>
 ---
-[1] “Electrocardiograma”, Medlineplus.gov. [En línea]. Disponible en: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/. [Consultado: 25-abr-2025]. </p>
-[2] T. Cascino y M. J. Shea, “Electrocardiografía”, Manual MSD versión para profesionales, 01-dic-2023. [En línea]. Disponible en: https://www.msdmanuals.com/es/professional/trastornos-cardiovasculares/pruebas-y-procedimientos-cardiovasculares/electrocardiograf%C3%ADa. [Consultado: 25-abr-2025]. </p>
+[1] “Electrocardiograma”, Medlineplus.gov. [En línea]. Disponible en: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electrocardiograma/. </p>
+[2] T. Cascino y M. J. Shea, “Electrocardiografía”, Manual MSD versión para profesionales, 01-dic-2023. [En línea]. Disponible en: https://www.msdmanuals.com/es/professional/trastornos-cardiovasculares/pruebas-y-procedimientos-cardiovasculares/electrocardiograf%C3%ADa. </p>
