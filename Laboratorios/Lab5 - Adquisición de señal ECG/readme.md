@@ -29,7 +29,7 @@
      
 ### Señal ECG
 
-<img src="Laboratorios/Lab5 - Adquisición de señal ECG/Fotos/SEÑALECG.png" width="600" height="300"></p>
+<img src="/Laboratorios/Lab5 - Adquisición de señal ECG/Fotos/SEÑALECG.png" >
 
 |  **Segmento**  | **Descripción** |
 |:------------:|:---------------:|
