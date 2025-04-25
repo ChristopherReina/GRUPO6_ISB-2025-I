@@ -82,7 +82,7 @@
        
 
 ### **Conexión usada** <a name="id5"></a>
-
+#
 Para la posición de los electrodos se utilizo el documento "BITalino (r)evolution Lab Guide EXPERIMENTAL GUIDES TO MEET & LEARN YOUR BIOSIGNALS" La configuración es la que se muestra en la siguiente imagen: 
   
 <img src="/Laboratorios/Lab5 - Adquisición de señal ECG/Fotos/CONFIGURACIONFISICA.png" >
