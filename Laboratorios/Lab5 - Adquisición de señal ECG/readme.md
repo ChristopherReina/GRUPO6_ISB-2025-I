@@ -92,7 +92,7 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
 ### **Sujeto de prueba 01**
 ---
 
-### **Video de la señal** <a name="id6"></a>
+### **Videos de las señales** <a name="id6"></a>
 #
 1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma.
 2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración.
@@ -134,7 +134,7 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
 
 ### **Sujeto de prueba 02**
 ---
-### **Video de la señal** <a name="id6"></a>
+### **Videos de las señales** <a name="id6"></a>
 #
 1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma.
 2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración.
@@ -148,7 +148,6 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
 | **Manteniendo la respiración por 10 segundos** |<video src="[dirección]"></video>|
 |                **Reposo basal**                |<video src="[dirección]"></video>|
 |       **Después de la actividad física**       |<video src="[dirección]"></video>|
-
 
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
@@ -175,13 +174,13 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
 </div>
      
 ## **Conclusiones** <a name="id10"></a>
-* P
+* [Agregar comentario]
 
-* P
+* [Agregar comentario]
 
-* P
+* [Agregar comentario]
 
-* P
+* [Agregar comentario]
 
 ---
 ## **Referencias** <a name="id11"></a>
