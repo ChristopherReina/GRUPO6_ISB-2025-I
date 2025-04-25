@@ -40,7 +40,7 @@
 | Segmento ST |    Representa la despolarización completa del miocardio ventricular.   |       
 | Onda T |    Refleja la repolarización ventricular.    |       
 | Onda U |   Refleja la repolarización tardía de las fibras de Purkinje y ciertos miocitos ventriculares. |     
-Imagen y tabla extraída de [2]
+
 
 ### Electrocardiograma
 
@@ -87,28 +87,72 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
   
 <img src="/Laboratorios/Lab5 - Adquisición de señal ECG/Fotos/CONFIGURACIONFISICA.png" >
 
+</div>
+
+### **Sujeto de prueba 01**
+---
+
 ### **Video de la señal** <a name="id6"></a>
 #
-1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma
-2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración
-3. **Reposo basal**: Reposo después de mantener la respiración
-4. **Después de una actividad física**:El sujeto de prueba realizó movimientos aeróbicos por 5 minutos
+1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma.
+2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración.
+3. **Reposo basal**: Reposo después de mantener la respiración.
+4. **Después de una actividad física**:El sujeto de prueba realizó actividad física hasta agotarse.
    
      
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Basal**                |<video src=""></video>|
-| **Manteniendo la respiración por 10 segundos** |<video src=""></video>|
-|                **Reposo basal**                |<video src=""></video>|
-|       **Después de la actividad física**       |<video src=""></video>|
+|                **Estado Basal**                |<video src="[dirección]"></video>|
+| **Manteniendo la respiración por 10 segundos** |<video src="[dirección]"></video>|
+|                **Reposo basal**                |<video src="[dirección]"></video>|
+|       **Después de la actividad física**       |<video src="[dirección]"></video>|
 
-     
-### **Archivos** <a name="id8"></a>
-#
 
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
 <p align="justify"> P
+
+     a)   Estado basal</p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+[Agregar comentario]</p>
+     b)   Manteniendo la respiración por 10 segundos</p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+[Agregar comentario]</p>
+     c)   Reposo basal</p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+[Agregar comentario]</p>
+     d)   Después de una actividad física</p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+[Agregar comentario]</p>
+
+</div>
+
+### **Sujeto de prueba 02**
+---
+### **Video de la señal** <a name="id6"></a>
+#
+1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma.
+2. **Manteniendo la respiración por 10 segundos**: El sujeto de prueba mantuvo la respiración por 10 segundos y se midió la inspiración y expiración.
+3. **Reposo basal**: Reposo después de mantener la respiración.
+4. **Después de una actividad física**:El sujeto de prueba realizó actividad física hasta agotarse.
+   
+     
+|                 **Modelo**                 | **Video** |
+|:------------------------------------------:|:---------:|
+|                **Estado Basal**                |<video src="[dirección]"></video>|
+| **Manteniendo la respiración por 10 segundos** |<video src="[dirección]"></video>|
+|                **Reposo basal**                |<video src="[dirección]"></video>|
+|       **Después de la actividad física**       |<video src="[dirección]"></video>|
+
+
+     
+### **Ploteo de la señal en Python** <a name="id9"></a>
+<p align="justify"> [Agregar comentario]
 
      a)   Estado basal</p>
 <p align="center"><img src="[direccion]" width="600" height="300"></p>
