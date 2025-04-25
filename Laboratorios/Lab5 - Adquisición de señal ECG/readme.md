@@ -40,7 +40,7 @@
 | Segmento ST |    Representa la despolarización completa del miocardio ventricular.   |       
 | Onda T |    Refleja la repolarización ventricular.    |       
 | Onda U |   Refleja la repolarización tardía de las fibras de Purkinje y ciertos miocitos ventriculares. |     
-                         Imagen y tabla extraída de [2]
+Imagen y tabla extraída de [2]
 
 ### Electrocardiograma
 
