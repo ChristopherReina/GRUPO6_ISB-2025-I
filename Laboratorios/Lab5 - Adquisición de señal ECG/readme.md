@@ -45,9 +45,9 @@
 
 <p align="justify"> La electrocardiografía convencional ofrece 12 imágenes (derivaciones) diferentes de la actividad eléctrica del corazón, representadas a partir de las diferencias de potencial eléctrico entre electrodos positivos y negativos colocados en los miembros y la pared torácica. Seis de estas derivaciones son verticales (emplean las derivaciones frontales I, II y III y las derivaciones de los miembros aVR, aVL y aVF) y 6 son horizontales (emplean las derivaciones precordiales V1, V2, V3, V4, V5 y V6).
 
-
-## **Objetivos** <a name="id1"></a>
 ---
+## **Objetivos** <a name="id1"></a>
+
 * Adquirir al menos una derivación de ECG.
 * Realizar una correcta configuración de BiTalino.
 * Plotear la información de las señales ECG en software OpenSignals (r)evolution.
