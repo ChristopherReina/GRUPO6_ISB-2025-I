@@ -25,8 +25,9 @@
 * Enfermedades de las válvulas del corazón
 * Defectos cardiacos congénitos
 
-<p align="justify"> 
-### Señal de ECG 
+<p align=> 
+     
+### Señal ECG
 
 [AGREGAR IMAGEN ECG]
 
@@ -53,7 +54,7 @@
 * Plotear la información de las señales ECG en software OpenSignals (r)evolution.
 * Analizar las ondas obtenidas.
 
-<div align="center">
+<div align=>
 
 ## **Materiales y equipos** <a name="id2"></a>
 ---
