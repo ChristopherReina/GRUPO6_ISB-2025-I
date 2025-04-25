@@ -26,7 +26,7 @@
 * Defectos cardiacos congénitos
 
 <p align="justify"> 
-### Señal de ECG ###
+### Señal de ECG 
 
 [AGREGAR IMAGEN ECG]
 
