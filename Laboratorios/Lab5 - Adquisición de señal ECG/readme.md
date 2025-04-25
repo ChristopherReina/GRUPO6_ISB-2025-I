@@ -98,10 +98,10 @@
      
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Basal**                |<video src="https://user-images.githubusercontent.com/128627001/231584957-8ee3fbcc-b6b3-440b-9237-7660d613ff81.mp4"></video>|
-| **Manteniendo la respiración por 10 segundos** |<video src="https://user-images.githubusercontent.com/128627001/231585634-4ff1e093-c272-44b3-9570-a781d223fcda.mp4"></video>|
-|                **Reposo basal**                |<video src="https://user-images.githubusercontent.com/128627001/231586327-8ea808a1-fc5f-4bc7-bb96-a590a6cf875a.mp4"></video>|
-|       **Después de la actividad física**       |<video src="https://user-images.githubusercontent.com/128627001/231586016-d47e613a-6b33-4284-9bc8-8974b8fd2e24.mp4"></video>|
+|                **Estado Basal**                |<video src=""></video>|
+| **Manteniendo la respiración por 10 segundos** |<video src=""></video>|
+|                **Reposo basal**                |<video src=""></video>|
+|       **Después de la actividad física**       |<video src=""></video>|
 
      
 ### **Archivos** <a name="id8"></a>
@@ -112,21 +112,21 @@
 <p align="justify">Se 
 
      a)   Estado basal</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Basal1_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Basal 1 Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
 [Agregar comentario]</p>
      b)   Manteniendo la respiración por 10 segundos</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Respiración_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Respiracion Freq_response.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Respiracion Amplitudes_Analysis Raw_Signal.png" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
 [Agregar comentario]</p>
      c)   Reposo basal</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Basal2_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Post-ejercicio Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
 [Agregar comentario]</p>
      d)   Después de una actividad física</p>
-<p align="center"><img src="/ISB/Laboratorios/Imagenes/entregable4/Post_ejercicio_señal.png" width="600" height="300"></p>
-<p align="center"><img src="/ISB/Laboratorios/Programación/ECG/Imagenes/Basal 2 Freq_response.png" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
+<p align="center"><img src="[direccion]" width="600" height="300"></p>
 [Agregar comentario]</p>
 
 </div>
