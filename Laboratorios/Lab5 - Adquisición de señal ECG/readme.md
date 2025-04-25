@@ -25,7 +25,7 @@
 * Enfermedades de las válvulas del corazón
 * Defectos cardiacos congénitos
 
-<p align="justify"> E
+<p align="justify"> 
 ### Señal de ECG </p>
 
 [AGREGAR IMAGEN ECG]
