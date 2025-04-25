@@ -1,4 +1,4 @@
-# **LABORATORIO 4: – USO DE BiTalino PARA ECG**
+# **LABORATORIO 4: – USO DE BITalino PARA ECG**
 
 # **Tabla de contenidos**
 1. [Introducción](#id0)
