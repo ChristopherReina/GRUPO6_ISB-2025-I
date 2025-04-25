@@ -110,7 +110,7 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
 
      
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-<p align="justify"> P
+<p align="justify"> [Agregar comentario]
 
      a)   Estado basal</p>
 <p align="center"><img src="[direccion]" width="600" height="300"></p>
