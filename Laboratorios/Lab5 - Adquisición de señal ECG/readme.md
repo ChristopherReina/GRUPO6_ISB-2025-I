@@ -6,10 +6,10 @@
 3. [Materiales y equipos](#id2)
 4. [Procedimiento](#id3)
 5. [Resultados](#id4)\
-     4.1 [Conexión usada](#id5)\
-     4.2 [Video de la señal](#id6)\
-     4.3 [Archivos](#id8)\
-     4.4 [Ploteo de la señal en Python](#id9)
+     5.1 [Conexión usada](#id5)\
+     5.2 [Video de la señal](#id6)\
+     5.3 [Archivos](#id8)\
+     5.4 [Ploteo de la señal en Python](#id9)
 6. [Conclusiones](#id10)
 7. [Referencias](#id11)
 
