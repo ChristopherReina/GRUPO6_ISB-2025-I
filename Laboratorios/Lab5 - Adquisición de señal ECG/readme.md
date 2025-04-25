@@ -40,11 +40,11 @@
 | Segmento ST |    Representa la despolarización completa del miocardio ventricular.   |       
 | Onda T |    Refleja la repolarización ventricular.    |       
 | Onda U |   Refleja la repolarización tardía de las fibras de Purkinje y ciertos miocitos ventriculares. |     
-[2]
+
 
 ### Electrocardiograma
 
-<p align="justify"> La electrocardiografía convencional ofrece 12 imágenes (derivaciones) diferentes de la actividad eléctrica del corazón, representadas a partir de las diferencias de potencial eléctrico entre electrodos positivos y negativos colocados en los miembros y la pared torácica. Seis de estas derivaciones son verticales (emplean las derivaciones frontales I, II y III y las derivaciones de los miembros aVR, aVL y aVF) y 6 son horizontales (emplean las derivaciones precordiales V1, V2, V3, V4, V5 y V6).
+<p align="justify"> La electrocardiografía convencional ofrece 12 imágenes (derivaciones) diferentes de la actividad eléctrica del corazón, representadas a partir de las diferencias de potencial eléctrico entre electrodos positivos y negativos colocados en los miembros y la pared torácica. Seis de estas derivaciones son verticales (emplean las derivaciones frontales I, II y III y las derivaciones de los miembros aVR, aVL y aVF) y 6 son horizontales (emplean las derivaciones precordiales V1, V2, V3, V4, V5 y V6). [2]
 
 ---
 ## **Objetivos** <a name="id1"></a>
@@ -85,9 +85,8 @@
 #
 <p align="justify"> Para la posición de los electrodos se utilizo el documento "BITalino (r)evolution Lab Guide EXPERIMENTAL GUIDES TO MEET & LEARN YOUR BIOSIGNALS" La configuración es la que se muestra en la siguiente imagen: 
   
-[AGREGAR IMAGEN CONFIGURACION FISICA]
+<img src="/Laboratorios/Lab5 - Adquisición de señal ECG/Fotos/CONFIGURACIONFISICA.png" >
 
-     
 ### **Video de la señal** <a name="id6"></a>
 #
 1. **Estado basal**: El sujeto de prueba se quedó quieto y manteniendo la calma
