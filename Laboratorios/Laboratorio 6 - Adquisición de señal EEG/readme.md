@@ -11,9 +11,10 @@
      5.1 [Conexión usada](#id5)\
      5.2 [Video de la señal](#id6)\
      5.3 [Archivos](#id8)\
-     5.4 [Ploteo de la señal en Python](#id9)
-6. [Conclusiones](#id10)
-7. [Referencias](#id11)
+     5.4 [Ploteo de la señal en Python](#id9)\
+     5.5 [Análisis cuantitativo (PSD)].(#id10)
+7. [Conclusiones](#id11)
+8. [Referencias](#id12)
 
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
@@ -131,8 +132,13 @@ a)   Estado basal</p>
 
 
 </div>
+
+---
+## **Análisis cuantitativo (PSD)** <a name="id10"></a>
      
-## **Conclusiones** <a name="id10"></a>
+[agregar comentario]</p>
+
+## **Conclusiones** <a name="id11"></a>
 * L
   
 * U
@@ -141,7 +147,7 @@ a)   Estado basal</p>
   
 * L
 ---
-## **Referencias** <a name="id11"></a>
+## **Referencias** <a name="id12"></a>
 ---
 [1] A. Rayi y N. I. Murr, “Electroencephalogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2025. </p>
 [2] EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. [Consultado: 02-may-2025].
