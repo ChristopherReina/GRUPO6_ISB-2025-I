@@ -12,7 +12,7 @@
      5.2 [Video de la señal](#id6)\
      5.3 [Archivos](#id8)\
      5.4 [Ploteo de la señal en Python](#id9)\
-     5.4 [Analisis cuantitativo](#id10)\
+     5.4 [Analisis cuantitativo](#id10)
 7. [Conclusiones](#id11)
 8. [Referencias](#id12)
 
