@@ -18,7 +18,7 @@
 
 ## **Introducción al laboratorio** <a name="id0"></a>
 ---
-<p align="justify"> El electroencefalograma (EEG) es una herramienta esencial que estudia la actividad eléctrica cerebral.[1] 
+<p align="justify"> El electroencefalograma (EEG) es una herramienta esencial que estudia la actividad eléctrica cerebral [1]. 
 Se utiliza principalmente para:
 
 * Clasificar el tipo de convulsión y localizar el inicio de las convulsiones
@@ -34,7 +34,7 @@ Se utiliza principalmente para:
 * Determinación de muerte cerebral 
 
 <img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/FOTO4.png" >
-Bandas de frecuencia de EEG, ocurrencia y tareas para activar la potencia de la banda. [2]
+Bandas de frecuencia de EEG, ocurrencia y tareas para activar la potencia de la banda [2].
 
 <p align=> 
      
@@ -117,29 +117,29 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
 a)   Estado basal 1: Ojos abiertos con punto fijo</p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 210916.png" width="800" height="300"></p>    
 <p align="justify"> La forma de la señal es irregular y presenta oscilaciones rápidas con amplitudes que oscilan aproximadamente entre -0.6 y 0.4 unidades normalizadas. </p>
-<p align="justify"> Acorde a la literatura, la actividad alfa (8-13 Hz), que suele predominar en reposo con ojos cerrados, tiende a reducirse o desaparecer (“bloqueo alfa”), mientras que aumentan las frecuencias más rápidas como las ondas beta (13-30 Hz) las cuales tienen una menor amplitud y una frecuencia más rápida </p>
+<p align="justify"> Acorde a la literatura, la actividad alfa (8-13 Hz), que suele predominar en reposo con ojos cerrados, tiende a reducirse o desaparecer (“bloqueo alfa”), mientras que aumentan las frecuencias más rápidas como las ondas beta (13-30 Hz) las cuales tienen una menor amplitud y una frecuencia más rápida [3]. </p>
 <p align="justify"> La ausencia de oscilaciones lentas dominantes como las ondas alfa o theta (4-8 Hz) también es coherente con un estado de alerta tranquilo con ojos abiertos. </p>
 
 b)   Estado basal 2: Ojos cerrados </p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 213637.png" width="800" height="300"></p>    
 <p align="justify"> La señal se caracteriza por oscilaciones aproximadamente entre -0.6 y 0.4 unidades normalizadas. A simple vista, se observa una oscilación algo más rítmica y organizada en comparación con la señal del estado de ojos abiertos. </p>
-<p align="justify"> Desde la perspectiva neurofisiológica, este patrón es coherente con la aparición de ondas alfa (8-13 Hz), que típicamente dominan el EEG en estado de reposo con ojos cerrados, especialmente en regiones occipitales. </p>
+<p align="justify"> Desde la perspectiva neurofisiológica, este patrón es coherente con la aparición de ondas alfa (8-13 Hz), que típicamente dominan el EEG en estado de reposo con ojos cerrados, especialmente en regiones occipitales [4]. </p>
 <p align="justify"> Las ondas alfa se presentan como oscilaciones relativamente regulares y sincronizadas, de amplitud moderada, que disminuyen o desaparecen cuando la persona abre los ojos. </p>
 
 c)   Realizando una tarea cognitiva</p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 211626.png" width="800" height="300"></p>  #D1 (2 mediciones)
 <p align="justify"> A partir de una inspección visual de la señal, es posible estimar que hay entre 10 y 20 ciclos por segundo, lo cual corresponde a frecuencias entre 10 a 20 Hz. Estas frecuencias indican la presencia de ondas Alfa (8–13 Hz) o Beta (13–30 Hz). Dado que la medición se realizó durante una tarea cognitiva activa, es más probable que predominen las ondas Beta. </p>
 <p align="justify"> La literatura neurofisiológica indica que las ondas Beta están asociadas con estados de alerta, procesamiento mental activo y resolución de problemas. En contraste, las ondas Alfa suelen estar más relacionadas con estados de relajación o de inactividad mental, y tienden a disminuir durante tareas cognitivas exigentes.</p>
-<p align="justify"> En base en la frecuencia visual estimada y el contexto de la actividad realizada, se puede afirmar que esta señal EEG corresponde a ondas Beta, lo cual es coherente con el estado de activación cognitiva que se espera durante una tarea de este tipo. </p>
+<p align="justify"> En base en la frecuencia visual estimada y el contexto de la actividad realizada, se puede afirmar que esta señal EEG corresponde a ondas Beta, lo cual es coherente con el estado de activación cognitiva que se espera durante una tarea de este tipo [3]. </p>
 
 
-c)   Artefactos: Parpadeando y masticando cada 2 segundos</p>
+d)   Artefactos: Parpadeando y masticando cada 2 segundos</p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 211646.png" width="800" height="300"></p>  #D1 (2 mediciones), inhalacion 5sec, exhalacion 5sec
 <p align="justify">Se observan fluctuaciones más abruptas e irregulares, con picos que no siguen un patrón fisiológico típico. Las caídas bruscas o transiciones casi verticales, como las que se ven aquí, suelen estar asociadas a artefactos musculares, movimientos oculares, parpadeos o incluso interferencia eléctrica. Esta señal refleja una actividad dominada por artefactos, con características no fisiológicas como transiciones abruptas y ruido inconsistente. </p>
 
-d)   Actividad libre: Leyendo trabalenguas</p>
+e)   Actividad libre: Leyendo trabalenguas</p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 211702.png" width="800" height="300"></p>
-<p align="justify">  Drante tareas lingüísticas complejas como la lectura (y más aún con trabalenguas, que requieren mayor esfuerzo articulatorio y atención fonológica), se incrementa la actividad en las bandas beta alta (18–30 Hz) e incluso gamma (>30 Hz). Estas bandas están asociadas con el procesamiento cognitivo activo, la planificación motora del habla, la atención sostenida y la integración sensorial-motora. La señal durante la lectura de trabalenguas refleja una mayor actividad cerebral respecto al estado basal con ojos abiertos. Esto es coherente con el incremento de oscilaciones rápidas y la posible aparición de componentes gamma, lo que concuerda con lo reportado en la literatura [3] </p>
+<p align="justify">  Drante tareas lingüísticas complejas como la lectura (y más aún con trabalenguas, que requieren mayor esfuerzo articulatorio y atención fonológica), se incrementa la actividad en las bandas beta alta (18–30 Hz) e incluso gamma (>30 Hz). Estas bandas están asociadas con el procesamiento cognitivo activo, la planificación motora del habla, la atención sostenida y la integración sensorial-motora. La señal durante la lectura de trabalenguas refleja una mayor actividad cerebral respecto al estado basal con ojos abiertos. Esto es coherente con el incremento de oscilaciones rápidas y la posible aparición de componentes gamma, lo que concuerda con lo reportado en la literatura [5] [6]. </p>
 
 
 </div>
@@ -150,20 +150,25 @@ d)   Actividad libre: Leyendo trabalenguas</p>
 <img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata1.jpeg" >
 <img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata2.jpeg" >
 <img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata3.jpeg" >
-El electroencefalograma (EEG) se describe generalmente en términos de sus componentes de frecuencia, que varían en dos órdenes de magnitud, de 1 a 100 Hz (periodos de oscilación de 10 a 1000 ms). Por convención, este rango se subdivide en bandas «gamma» (a partir de 35 Hz), «beta» (13–35 Hz), «alfa» (8–13 Hz), «theta» (4–8 Hz) y «delta» (1–4 Hz). En el EEG normal en vigilia, las actividades theta y delta son poco frecuentes o inexistentes. Por lo tanto, este artículo se centra en las oscilaciones en los rangos alfa, beta y gamma. El objetivo es proporcionar un marco teórico para explicar la actividad eléctrica masiva (observada en el EEG) en términos de la actividad en neuronas corticales individuales. [4]
+El electroencefalograma (EEG) se describe generalmente en términos de sus componentes de frecuencia, que varían en dos órdenes de magnitud, de 1 a 100 Hz (periodos de oscilación de 10 a 1000 ms). Por convención, este rango se subdivide en bandas «gamma» (a partir de 35 Hz), «beta» (13–35 Hz), «alfa» (8–13 Hz), «theta» (4–8 Hz) y «delta» (1–4 Hz). En el EEG normal en vigilia, las actividades theta y delta son poco frecuentes o inexistentes. Por lo tanto, este artículo se centra en las oscilaciones en los rangos alfa, beta y gamma. El objetivo es proporcionar un marco teórico para explicar la actividad eléctrica masiva (observada en el EEG) en términos de la actividad en neuronas corticales individuales [7].
 
 <img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata4.jpeg" >
 El resultado de ANOVA nos muestra lo que solo obtenemos una banda por cada 'condición' de ejercicio, por lo que no se puede evaluar la variabilidad entre condiciones con la variabilidad de las bandas. Entonces el valor estadístico F y p no se pueden calcular al igual que el error residual, por la falta de repeticiones df = 0 en residual, como se ve en la tabla.
 
 Lo que se puede observar para la banda alpha son valores distintos de potencia entre ejercicios, pero no se puede afirmar si estas son estadísticamente significativas.
 
-## **Limitaciones** <a name="id11"></a>
+## **Conclusiones y discusión** <a name="id11"></a>}
+- <p align="justify">La evaluación del EEG en condiciones de ojos abiertos, ojos cerrados y actividad cognitiva permite observar cambios claros en la dinámica cerebral. Al comparar estos estados, se aprecia cómo el cerebro pasa de un ritmo relajado con ojos cerrados (alfa) a uno de mayor atención con ojos abiertos (beta), y finalmente a una intensa actividad sincronizada durante tareas cognitivas (gamma y beta), reflejando así su capacidad adaptativa frente a las demandas del entorno.
+- <p align="justify">La comparación entre estos estados permite evidenciar cómo el cerebro modula su actividad eléctrica de forma adaptativa según las demandas del entorno y la tarea. Estos resultados muestran que el EEG es una herramienta valiosa para interpretar el estado funcional del cerebro en tiempo real, y puede tener aplicaciones en la evaluación de trastornos de atención, sueño o funciones ejecutivas.
 - <p align="justify">Una limitación importante del estudio es que, debido al uso de electrodos superficiales de calidad limitada, las señales registradas mostraron poca variabilidad entre las diferentes mediciones, lo que dificultó observar diferencias claras entre los distintos estados experimentales. Esto sugiere que futuros trabajos deberían considerar el uso de electrodos de mayor precisión para obtener registros más diferenciados y lograr su interpretación.
 ---
 ## **Referencias** <a name="id12"></a>
 ---
 [1] A. Rayi y N. I. Murr, “Electroencephalogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2025. </p>
 [2] EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. [Consultado: 02-may-2025]. </p>
-[3] https://oa.upm.es/44379/1/TFM_LEONARDO_JOSE_GOMEZ_FIGUEROA.pdf </p>
-[4] R. Miller, “Theory of the normal waking EEG: from single neurones to waveforms in the alpha, beta and gamma frequency ranges”, Int. J. Psychophysiol., vol. 64, núm. 1, pp. 18–23, 2007.
+[3] “Onda Beta: una visión general | Temas de ScienceDirect”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/beta-wave
+[4] “Alpha Wave - an overview | ScienceDirect Topics”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/medicine-and-dentistry/alpha-wave
+[5] “Ondas gamma: una visión general | Temas de ScienceDirect”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/gamma-wave
+[6] L. J. Gómez Figueroa, "Análisis de señales EEG para detección de eventos oculares, musculares y cognitivos," Máster Universitario en Automática y Robótica, Madrid, Spain, Sep. 12, 2016.
+[7] R. Miller, “Theory of the normal waking EEG: from single neurones to waveforms in the alpha, beta and gamma frequency ranges”, Int. J. Psychophysiol., vol. 64, núm. 1, pp. 18–23, 2007.
 
