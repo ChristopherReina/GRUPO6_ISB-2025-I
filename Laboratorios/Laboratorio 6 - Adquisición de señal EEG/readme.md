@@ -152,6 +152,11 @@ d)   Actividad libre: Leyendo trabalenguas</p>
 <img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata3.jpeg" >
 El electroencefalograma (EEG) se describe generalmente en términos de sus componentes de frecuencia, que varían en dos órdenes de magnitud, de 1 a 100 Hz (periodos de oscilación de 10 a 1000 ms). Por convención, este rango se subdivide en bandas «gamma» (a partir de 35 Hz), «beta» (13–35 Hz), «alfa» (8–13 Hz), «theta» (4–8 Hz) y «delta» (1–4 Hz). En el EEG normal en vigilia, las actividades theta y delta son poco frecuentes o inexistentes. Por lo tanto, este artículo se centra en las oscilaciones en los rangos alfa, beta y gamma. El objetivo es proporcionar un marco teórico para explicar la actividad eléctrica masiva (observada en el EEG) en términos de la actividad en neuronas corticales individuales. [4]
 
+<img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata4.jpeg" >
+El resultado de ANOVA nos muestra lo que solo obtenemos una banda por cada 'condición' de ejercicio, por lo que no se puede evaluar la variabilidad entre condiciones con la variabilidad de las bandas. Entonces el valor estadístico F y p no se pueden calcular al igual que el error residual, por la falta de repeticiones df = 0 en residual, como se ve en la tabla.
+
+Lo que se puede observar para la banda alpha son valores distintos de potencia entre ejercicios, pero no se puede afirmar si estas son estadísticamente significativas.
+
 ## **Limitaciones** <a name="id11"></a>
 - <p align="justify">Una limitación importante del estudio es que, debido al uso de electrodos superficiales de calidad limitada, las señales registradas mostraron poca variabilidad entre las diferentes mediciones, lo que dificultó observar diferencias claras entre los distintos estados experimentales. Esto sugiere que futuros trabajos deberían considerar el uso de electrodos de mayor precisión para obtener registros más diferenciados y lograr su interpretación.
 ---
