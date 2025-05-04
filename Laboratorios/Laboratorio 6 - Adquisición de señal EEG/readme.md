@@ -150,7 +150,7 @@ d)   Actividad libre: Leyendo trabalenguas</p>
 [agregar comentario]</p>
 
 ## **Limitaciones** <a name="id11"></a>
-- Una limitación importante del estudio es que, debido al uso de electrodos superficiales de calidad limitada, las señales registradas mostraron poca variabilidad entre las diferentes mediciones, lo que dificultó observar diferencias claras entre los distintos estados experimentales. Esto sugiere que futuros trabajos deberían considerar el uso de electrodos de mayor precisión para obtener registros más diferenciados y lograr su interpretación.
+- <p align="justify">Una limitación importante del estudio es que, debido al uso de electrodos superficiales de calidad limitada, las señales registradas mostraron poca variabilidad entre las diferentes mediciones, lo que dificultó observar diferencias claras entre los distintos estados experimentales. Esto sugiere que futuros trabajos deberían considerar el uso de electrodos de mayor precisión para obtener registros más diferenciados y lograr su interpretación.
 ---
 ## **Referencias** <a name="id12"></a>
 ---
