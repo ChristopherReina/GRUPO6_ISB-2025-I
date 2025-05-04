@@ -104,11 +104,11 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
      
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Basal 1**                |<video src="[dirección]"></video>|
-|                **Estado Basal 2**                |<video src="[dirección]"></video>|
-| **Realizando una tarea cognitiva**         |<video src="[dirección]"></video>|
-|                **Parpadeando y masticando cada 2 segundos**                |<video src="[dirección]"></video>|
-|       **Leyendo trabalenguas**         |<video src="[dirección]"></video>|
+|                **Estado Basal 1**                |<video src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/basal1.mp4"></video>|
+|                **Estado Basal 2**                |<video src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/basal2.mp4"></video>|
+| **Realizando una tarea cognitiva**         |<video src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/tarea cognitiva.mp4"></video>|
+|                **Parpadeando y masticando cada 2 segundos**                |<video src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/artefactos.mp4"></video>|
+|       **Leyendo trabalenguas**         |<video src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/act_libre.mp4"></video>|
 
 
      
