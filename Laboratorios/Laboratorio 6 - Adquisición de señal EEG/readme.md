@@ -147,7 +147,10 @@ d)   Actividad libre: Leyendo trabalenguas</p>
 ---
 ## **Análisis cuantitativo (PSD)** <a name="id10"></a>
      
-[agregar comentario]</p>
+<img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata1.jpeg" >
+<img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata2.jpeg" >
+<img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Stata3.jpeg" >
+El electroencefalograma (EEG) se describe generalmente en términos de sus componentes de frecuencia, que varían en dos órdenes de magnitud, de 1 a 100 Hz (periodos de oscilación de 10 a 1000 ms). Por convención, este rango se subdivide en bandas «gamma» (a partir de 35 Hz), «beta» (13–35 Hz), «alfa» (8–13 Hz), «theta» (4–8 Hz) y «delta» (1–4 Hz). En el EEG normal en vigilia, las actividades theta y delta son poco frecuentes o inexistentes. Por lo tanto, este artículo se centra en las oscilaciones en los rangos alfa, beta y gamma. El objetivo es proporcionar un marco teórico para explicar la actividad eléctrica masiva (observada en el EEG) en términos de la actividad en neuronas corticales individuales. [4]
 
 ## **Limitaciones** <a name="id11"></a>
 - <p align="justify">Una limitación importante del estudio es que, debido al uso de electrodos superficiales de calidad limitada, las señales registradas mostraron poca variabilidad entre las diferentes mediciones, lo que dificultó observar diferencias claras entre los distintos estados experimentales. Esto sugiere que futuros trabajos deberían considerar el uso de electrodos de mayor precisión para obtener registros más diferenciados y lograr su interpretación.
@@ -156,5 +159,6 @@ d)   Actividad libre: Leyendo trabalenguas</p>
 ---
 [1] A. Rayi y N. I. Murr, “Electroencephalogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2025. </p>
 [2] EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. [Consultado: 02-may-2025]. </p>
-[3] https://oa.upm.es/44379/1/TFM_LEONARDO_JOSE_GOMEZ_FIGUEROA.pdf
+[3] https://oa.upm.es/44379/1/TFM_LEONARDO_JOSE_GOMEZ_FIGUEROA.pdf </p>
+[4] R. Miller, “Theory of the normal waking EEG: from single neurones to waveforms in the alpha, beta and gamma frequency ranges”, Int. J. Psychophysiol., vol. 64, núm. 1, pp. 18–23, 2007.
 
