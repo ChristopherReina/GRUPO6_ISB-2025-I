@@ -149,18 +149,12 @@ d)   Actividad libre: Leyendo trabalenguas</p>
      
 [agregar comentario]</p>
 
-## **Conclusiones** <a name="id11"></a>
-* L
-  
-* U
-
-* E
-  
-* L
+## **Limitaciones** <a name="id11"></a>
+- Una limitación importante del estudio es que, debido al uso de electrodos superficiales de calidad limitada, las señales registradas mostraron poca variabilidad entre las diferentes mediciones, lo que dificultó observar diferencias claras entre los distintos estados experimentales. Esto sugiere que futuros trabajos deberían considerar el uso de electrodos de mayor precisión para obtener registros más diferenciados y lograr su interpretación.
 ---
 ## **Referencias** <a name="id12"></a>
 ---
 [1] A. Rayi y N. I. Murr, “Electroencephalogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2025. </p>
-[2] EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. [Consultado: 02-may-2025].
+[2] EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. [Consultado: 02-may-2025]. </p>
 [3] https://oa.upm.es/44379/1/TFM_LEONARDO_JOSE_GOMEZ_FIGUEROA.pdf
 
