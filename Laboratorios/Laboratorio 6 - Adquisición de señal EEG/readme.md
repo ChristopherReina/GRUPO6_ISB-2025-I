@@ -116,11 +116,15 @@ Para la posición de los electrodos se utilizo el documento "BITalino (r)evoluti
 
 a)   Estado basal 1: Ojos abiertos con punto fijo</p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 210916.png" width="800" height="300"></p>    
-<p align="justify"> [agregar comentario]</p>
+<p align="justify"> La forma de la señal es irregular y presenta oscilaciones rápidas con amplitudes que oscilan aproximadamente entre -0.6 y 0.4 unidades normalizadas. </p>
+<p align="justify"> Acorde a la literatura, la actividad alfa (8-13 Hz), que suele predominar en reposo con ojos cerrados, tiende a reducirse o desaparecer (“bloqueo alfa”), mientras que aumentan las frecuencias más rápidas como las ondas beta (13-30 Hz) las cuales tienen una menor amplitud y una frecuencia más rápida </p>
+<p align="justify"> La ausencia de oscilaciones lentas dominantes como las ondas alfa o theta (4-8 Hz) también es coherente con un estado de alerta tranquilo con ojos abiertos. </p>
 
 b)   Estado basal 2: Ojos cerrados </p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 213637.png" width="800" height="300"></p>    
-<p align="justify"> [agregar comentario]</p>
+<p align="justify"> La señal se caracteriza por oscilaciones aproximadamente entre -0.6 y 0.4 unidades normalizadas. A simple vista, se observa una oscilación algo más rítmica y organizada en comparación con la señal del estado de ojos abiertos. </p>
+<p align="justify"> Desde la perspectiva neurofisiológica, este patrón es coherente con la aparición de ondas alfa (8-13 Hz), que típicamente dominan el EEG en estado de reposo con ojos cerrados, especialmente en regiones occipitales. </p>
+<p align="justify"> Las ondas alfa se presentan como oscilaciones relativamente regulares y sincronizadas, de amplitud moderada, que disminuyen o desaparecen cuando la persona abre los ojos. </p>
 
 c)   Realizando una tarea cognitiva</p>
 <p align="center"><img src="/Laboratorios/Laboratorio 6 - Adquisición de señal EEG/Fotos/Captura de pantalla 2025-05-03 211626.png" width="800" height="300"></p>  #D1 (2 mediciones)
