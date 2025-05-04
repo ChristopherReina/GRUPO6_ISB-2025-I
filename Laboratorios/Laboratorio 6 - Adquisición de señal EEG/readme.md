@@ -157,7 +157,7 @@ El resultado de ANOVA nos muestra lo que solo obtenemos una banda por cada 'cond
 
 Lo que se puede observar para la banda alpha son valores distintos de potencia entre ejercicios, pero no se puede afirmar si estas son estadísticamente significativas.
 
-## **Conclusiones y discusión** <a name="id11"></a>}
+## **Conclusiones y discusión** <a name="id11"></a>
 - <p align="justify">La evaluación del EEG en condiciones de ojos abiertos, ojos cerrados y actividad cognitiva permite observar cambios claros en la dinámica cerebral. Al comparar estos estados, se aprecia cómo el cerebro pasa de un ritmo relajado con ojos cerrados (alfa) a uno de mayor atención con ojos abiertos (beta), y finalmente a una intensa actividad sincronizada durante tareas cognitivas (gamma y beta), reflejando así su capacidad adaptativa frente a las demandas del entorno.
 - <p align="justify">La comparación entre estos estados permite evidenciar cómo el cerebro modula su actividad eléctrica de forma adaptativa según las demandas del entorno y la tarea. Estos resultados muestran que el EEG es una herramienta valiosa para interpretar el estado funcional del cerebro en tiempo real, y puede tener aplicaciones en la evaluación de trastornos de atención, sueño o funciones ejecutivas.
 - <p align="justify">Una limitación importante del estudio es que, debido al uso de electrodos superficiales de calidad limitada, las señales registradas mostraron poca variabilidad entre las diferentes mediciones, lo que dificultó observar diferencias claras entre los distintos estados experimentales. Esto sugiere que futuros trabajos deberían considerar el uso de electrodos de mayor precisión para obtener registros más diferenciados y lograr su interpretación.
@@ -166,9 +166,9 @@ Lo que se puede observar para la banda alpha son valores distintos de potencia e
 ---
 [1] A. Rayi y N. I. Murr, “Electroencephalogram”, en StatPearls, Treasure Island (FL): StatPearls Publishing, 2025. </p>
 [2] EXPERIMENTAL GUIDES TO MEET y L. Y. Biosignals, “BITalino (r)evolution Lab Guide”, Pluxbiosignals.com. [En línea]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. [Consultado: 02-may-2025]. </p>
-[3] “Onda Beta: una visión general | Temas de ScienceDirect”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/beta-wave
-[4] “Alpha Wave - an overview | ScienceDirect Topics”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/medicine-and-dentistry/alpha-wave
-[5] “Ondas gamma: una visión general | Temas de ScienceDirect”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/gamma-wave
-[6] L. J. Gómez Figueroa, "Análisis de señales EEG para detección de eventos oculares, musculares y cognitivos," Máster Universitario en Automática y Robótica, Madrid, Spain, Sep. 12, 2016.
-[7] R. Miller, “Theory of the normal waking EEG: from single neurones to waveforms in the alpha, beta and gamma frequency ranges”, Int. J. Psychophysiol., vol. 64, núm. 1, pp. 18–23, 2007.
+[3] “Onda Beta: una visión general | Temas de ScienceDirect”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/beta-wave </p>
+[4] “Alpha Wave - an overview | ScienceDirect Topics”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/medicine-and-dentistry/alpha-wave </p>
+[5] “Ondas gamma: una visión general | Temas de ScienceDirect”. Accedido: 3 de mayo de 2025. [En línea]. Disponible en: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/gamma-wave </p>
+[6] L. J. Gómez Figueroa, "Análisis de señales EEG para detección de eventos oculares, musculares y cognitivos," Máster Universitario en Automática y Robótica, Madrid, Spain, Sep. 12, 2016. </p>
+[7] R. Miller, “Theory of the normal waking EEG: from single neurones to waveforms in the alpha, beta and gamma frequency ranges”, Int. J. Psychophysiol., vol. 64, núm. 1, pp. 18–23, 2007. </p>
 
