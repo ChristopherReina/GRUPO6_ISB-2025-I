@@ -8,11 +8,24 @@
 ## **EEG** <a name="id0"></a>
 ---
 <p align="justify"> E 
-
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG1.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG2.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG3.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG4.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG5.jpeg" >
 
 ## **EMG** <a name="id0"></a>
 ---
 <p align="justify"> E
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG1.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG2.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG3.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG4.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG5.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG6.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG7.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG8.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG9.jpeg" >
 
 
 ## **ECG** <a name="id0"></a>
