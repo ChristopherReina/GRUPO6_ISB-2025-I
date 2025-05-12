@@ -12,6 +12,7 @@
   <div align=>
   ---
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG2.jpeg" >
+  <div align=>
   ---
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG3.jpeg" >
   ---
