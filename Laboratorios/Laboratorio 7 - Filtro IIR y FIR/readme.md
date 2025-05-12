@@ -7,20 +7,20 @@
 
 ## **EEG** <a name="id0"></a>
 ---
-<p align="justify">  
-<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG1.jpeg" >
   --- EEG antes de filtrar.
-<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG2.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG1.jpeg" >
   --- Filtro IIR (Butterworth)
-<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG3.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG2.jpeg" >
   --- Filtro FIR (Hanning)
-<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG4.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG3.jpeg" >
   --- EEG filtrado (IIR)
-<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG5.jpeg" >
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG4.jpeg" >
   --- EEG filtrado (FIR)
+<img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG5.jpeg" >
+
 ## **EMG** <a name="id0"></a>
 ---
-<p align="justify"> 
+
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG1.jpeg" >
   ---
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG2.jpeg" >
@@ -42,4 +42,4 @@
 
 ## **ECG** <a name="id0"></a>
 ---
-<p align="justify"> 
+
