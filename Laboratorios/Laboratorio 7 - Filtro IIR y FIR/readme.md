@@ -20,23 +20,23 @@
 
 ## **EMG** <a name="id0"></a>
 ---
-  * Contracción fuerte: Filtro IIR (Butterworth y Chebyshev) 
+  * Contracción fuerte: Filtro IIR (Butterworth y Chebyshev). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG1.jpeg" >
-  * Basal: Filtro IIR (Butterworth y Chebyshev) 
+  * Basal: Filtro IIR (Butterworth y Chebyshev). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG2.jpeg" >
-Respuesta en frecuencia IIR (Chebyshev) 
+Respuesta en frecuencia IIR (Chebyshev). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG3.jpeg" >
-  * Contracción leve: Filtro IIR (Butterworth y Chebyshev) 
+  * Contracción leve: Filtro IIR (Butterworth y Chebyshev). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG4.jpeg" >
-  * Contracción fuerte: Filtro FIR (Hamming y Blackman) 
+  * Contracción fuerte: Filtro FIR (Hamming y Blackman). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG5.jpeg" >
-Respuesta en frecuencia IIR (Butterworth) 
+Respuesta en frecuencia IIR (Butterworth). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG6.jpeg" >
-  * Basal: Filtro FIR (Hamming y Blackman) 
+  * Basal: Filtro FIR (Hamming y Blackman). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG7.jpeg" >
-Respuesta en frecuencia FIR (Blackman) 
+  * Respuesta en frecuencia FIR (Blackman). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG8.jpeg" >
-Respuesta en frecuencia FIR (Hamming) 
+  * Respuesta en frecuencia FIR (Hamming). 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EMG9.jpeg" >
 
 
