@@ -9,6 +9,7 @@
 ---
 <p align="justify"> E 
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG1.jpeg" >
+  <div align=>
   ---
 <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/Fotos/EEG2.jpeg" >
   ---
