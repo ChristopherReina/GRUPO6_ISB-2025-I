@@ -42,7 +42,7 @@
 
 ## **ECG** <a name="id0"></a>
 
-| Campo         | Señal cruda                                         | Filtro IIR                                          | Filtro FIR                                          |
+| Campo         | Señal Sin filtrar                                       | Filtro IIR                                          | Filtro FIR                                          |
 |---------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
 | **Basal**     | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Basal 1_sin_filtrar.png" width="400"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Basal 1_iir.png" width="400"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Basal 1_fir.png" width="400"> |
 | **Respiración** | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Respiración_sin_filtrar.png" width="400"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Respiración_iir.png" width="400"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Respiración_fir.png" width="400"> |
