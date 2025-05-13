@@ -41,12 +41,11 @@
 
 
 ## **ECG** <a name="id0"></a>
-**Ejemplo:**
+| Campo           | Señal cruda                                                                 | Filtro IIR                                                                 | Filtro FIR                                                                 |
+|------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Basal**         | <img src="ruta/Basal 1_sin_filtrar.png" width="300"> | <img src="ruta/Basal 1_iir.png" width="300">        | <img src="ruta/Basal 1_fir.png" width="300">         |
+| **Respiración**   | <img src="ruta/Respiración_sin_filtrar.png" width="300"> | <img src="ruta/Respiración_iir.png" width="300">    | <img src="ruta/Respiración_fir.png" width="300">     |
+| **Post-Ejercicio**| <img src="ruta/Post-ejercicio_sin_filtrar.png" width="300"> | <img src="ruta/Post-ejercicio_iir.png" width="300"> | <img src="ruta/Post-ejercicio_fir.png" width="300">  |
 
-| Campo         | Señal cruda                                         | Filtro IIR                                          | Filtro FIR                                          |
-|---------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| **Basal**     | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Basal 1_sin_filtrar.png" width="200"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Basal 1_iir.png" width="200"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Basal 1_fir.png" width="200"> |
-| **Respiración** | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Respiración_sin_filtrar.png" width="200"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Respiración_iir.png" width="200"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Respiración_fir.png" width="200"> |
-| **Post-Ejercicio** | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Post-ejercicio_sin_filtrar.png" width="200"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Post-ejercicio_iir.png" width="200"> | <img src="/Laboratorios/Laboratorio 7 - Filtro IIR y FIR/graficas_ecg/Post-ejercicio_fir.png" width="200"> |
 
 
