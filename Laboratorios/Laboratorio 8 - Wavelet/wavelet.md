@@ -41,9 +41,35 @@ Existen varios tipos de transformadas wavelet, cada una con características y a
 
 ### EMG
 
+Reposo
+
+
+Contracción leve
+
+
+Contracción fuerte
+
+
 ### ECG
 
+Reposo
+
+
+Inhalando / Manteniendo / Exhalando
+
+
+Después de ejercicio físico
+
 ### EEG
+
+Reposo
+
+
+Abriendo y cerrando los ojos
+
+
+Leyendo y repitiendo trabalenguas
+
 
 ## Resumen y Discusión
 
