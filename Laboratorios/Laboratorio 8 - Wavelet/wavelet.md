@@ -83,15 +83,15 @@ Contracción fuerte
 
 Reposo
 
-<img src="/Laboratorios/Laboratorio 8 - wavelet/imagenes_wavelet/ECG1.jpeg" >
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/ECG1.jpeg" >
 
 Inhalando / Manteniendo / Exhalando
 
-<img src="/Laboratorios/Laboratorio 8 - wavelet/Fotos/ECG2.jpeg" >
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/Fotos/ECG2.jpeg" >
 
 Después de ejercicio físico
 
-<img src="/Laboratorios/Laboratorio 8 - wavelet/Fotos/ECG3.jpeg" >
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/Fotos/ECG3.jpeg" >
 
 ### EEG
 
