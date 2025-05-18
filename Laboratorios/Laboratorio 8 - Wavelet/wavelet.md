@@ -76,11 +76,11 @@ Reposo
 
 Contracción leve
 
-<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EMG2.jpeg" >
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EMG3.jpeg" >
 
 Contracción fuerte
 
-<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EMG3.jpeg" >
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EMG2.jpeg" >
 
 ### ECG
 
