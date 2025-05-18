@@ -101,7 +101,7 @@ Reposo
 
 Abriendo y cerrando los ojos
 
-<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EE2.jpeg" >
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EEG2.jpeg" >
 
 Leyendo y repitiendo trabalenguas
 
