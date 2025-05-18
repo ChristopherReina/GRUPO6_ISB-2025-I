@@ -25,9 +25,31 @@ La transformada wavelet es una herramienta poderosa en el procesamiento de seña
 
 Existen varios tipos de transformadas wavelet, cada una con características y aplicaciones específicas:
 
-- **Transformada Wavelet Continua (CWT):** permite un análisis continuo en el tiempo, útil para exploración detallada.
-- **Transformada Wavelet Discreta (DWT):** ideal para procesamiento digital eficiente. Permite separar la señal en componentes de alta y baja frecuencia.
-- **Transformada Wavelet Estacionaria (SWT):** evita la decimación, manteniendo los valores en el tiempo, siendo especialmente útil para la reducción de ruido sin perder características de borde.
+### Transformada Wavelet Continua (CWT)
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/Captura de pantalla 2025-05-17 231538.png">  
+
+La Transformada Wavelet Continua permite analizar señales de forma continua en el dominio del tiempo y la frecuencia, proporcionando una representación detallada de cómo varían las frecuencias a lo largo del tiempo. A diferencia de la DWT, la CWT no realiza decimación, lo que la hace más precisa para el análisis de señales con componentes transitorios o no estacionarios. Esta transformada es útil para estudios exploratorios y visualización detallada de patrones en señales biomédicas o geofísicas, aunque su alto costo computacional puede limitar su uso en aplicaciones en tiempo real.
+
+---
+
+### Transformada Wavelet Discreta (DWT)
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/Captura de pantalla 2025-05-17 233949.png">  
+
+Es la forma más básica y ampliamente utilizada de transformada wavelet. Permite analizar señales a diferentes escalas y resoluciones, combinando ventajas tanto del dominio del tiempo como del dominio de la frecuencia. A través de un banco de filtros de dos canales, la señal se descompone iterativamente en componentes de baja y alta frecuencia.
+
+La parte de baja frecuencia representa la aproximación de la señal y contiene su estructura general.  
+La parte de alta frecuencia captura los detalles de la señal y contiene información sobre los cambios rápidos, bordes o transiciones abruptas.
+
+Su eficiencia computacional y capacidad de análisis multiescala la hacen adecuada para una variedad de señales unidimensionales como ECG, EEG y señales de audio. Sin embargo, presenta limitaciones cuando se aplica a señales multidimensionales como imágenes, debido a su pobre direccionalidad y falta de redundancia.
+
+---
+
+### Transformada Wavelet Estacionaria (SWT)
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/Captura de pantalla 2025-05-17 231756.png">  
+
+La Transformada Wavelet Estacionaria es una variante no decimada de la DWT que mantiene la longitud original de la señal en cada nivel de descomposición, lo que la hace especialmente adecuada para la reducción de ruido. Al conservar la alineación temporal, permite preservar características importantes como bordes o picos, siendo útil en contextos donde se requiere mantener la estructura temporal de la señal. Se aplica comúnmente junto con técnicas de *thresholding* (como *wavelet shrinkage*) para eliminar ruido sin perder información relevante.
+
+---
 
 ## Materiales y Equipos
 
