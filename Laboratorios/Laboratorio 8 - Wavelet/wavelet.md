@@ -49,6 +49,13 @@ Su eficiencia computacional y capacidad de análisis multiescala la hacen adecua
 
 La Transformada Wavelet Estacionaria es una variante no decimada de la DWT que mantiene la longitud original de la señal en cada nivel de descomposición, lo que la hace especialmente adecuada para la reducción de ruido. Al conservar la alineación temporal, permite preservar características importantes como bordes o picos, siendo útil en contextos donde se requiere mantener la estructura temporal de la señal. Se aplica comúnmente junto con técnicas de *thresholding* (como *wavelet shrinkage*) para eliminar ruido sin perder información relevante.
 
+### Filtro a utilizar:  Transformada wavelet estacionaria (SWT)
+
+<p align="justify"> La transformada wavelet estacionaria (SWT) representa una de las mejores opciones para el filtrado de señales biomédicas, como el ECG, en comparación con otros tipos de transformadas wavelet, principalmente por su capacidad de mantener la alineación temporal de la señal original. 
+
+<p align="justify">  A diferencia de la transformada wavelet discreta (DWT), que reduce la resolución temporal a medida que se incrementa el nivel de descomposición mediante un proceso de downsampling, la SWT omite esta etapa y, en cambio, replica los filtros en cada nivel. Esta estructura redundante asegura que no se pierda información temporal, lo que resulta en una reconstrucción más precisa de la señal tras el proceso de filtrado.
+
+
 ---
 
 ## Materiales y Equipos
