@@ -97,12 +97,15 @@ Después de ejercicio físico
 
 Reposo
 
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EEG1.jpeg" >
 
 Abriendo y cerrando los ojos
 
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EE2.jpeg" >
 
 Leyendo y repitiendo trabalenguas
 
+<img src="/Laboratorios/Laboratorio 8 - Wavelet/imagenes_wavelet/EEG3.jpeg" >
 
 ## Resumen y Discusión
 
