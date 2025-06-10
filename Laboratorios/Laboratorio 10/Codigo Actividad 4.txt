@@ -1,0 +1,122 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from scipy.stats import skew, kurtosis
+from sklearn.decomposition import PCA
+import neurokit2 as nk
+#se importa primero las librerias necesarias
+
+#se crea las señales de 10sec
+fs = 500
+duration = 10
+np.random.seed(42) #se crea la semilla para que sea "aleatorio"
+
+def generate_ecg(ti, ai, bi):
+    return nk.ecg_simulate(duration=duration, sampling_rate=fs, heart_rate=70,
+                           method="ecgsyn", ti=ti, ai=ai, bi=bi)
+
+#Señales base
+#Se crea las señales agrupados en 2 en 2 con diferentes alteraciones
+ti0 = np.array((-70, -15, 0, 15, 100))
+ai0 = np.array((1.2, -5, 30, -7.5, 0.75))
+bi0 = np.array((0.25, 0.1, 0.1, 0.1, 0.4))
+
+ecg0 = generate_ecg(ti0, ai0, bi0)
+ti1 = np.random.normal(ti0, 3)
+ai1 = np.random.normal(ai0, np.abs(ai0/5))
+bi1 = np.random.normal(bi0, np.abs(bi0/5))
+
+#Grupo B
+ecg1 = generate_ecg(ti1, ai1, bi1)
+ti2 = np.random.normal(ti0, 3)
+ai2 = np.random.normal(ai0, np.abs(ai0/5)); ai2[4] = -0.5
+bi2 = np.random.normal(bi0, np.abs(bi0/5)); bi2[2] *= 2
+ecg2 = generate_ecg(ti2, ai2, bi2)
+
+
+ti3 = np.random.normal(ti0, 3)
+ai3 = np.random.normal(ai0, np.abs(ai0/5))
+bi3 = np.random.normal(bi0, np.abs(bi0/5))
+ecg3 = generate_ecg(ti3, ai3, bi3)
+# Grupo C 
+ti4 = np.random.normal(ti1, 3)
+ai4 = np.random.normal(ai1, np.abs(ai1/5))
+bi4 = np.random.normal(bi1, np.abs(bi1/5))
+ecg4 = generate_ecg(ti4, ai4, bi4)
+
+ti5 = np.random.normal(ti2, 3)
+ai5 = np.random.normal(ai2, np.abs(ai2/5)); ai5[4] = -0.4
+bi5 = np.random.normal(bi2, np.abs(bi2/5)); bi5[2] *= 1.5
+ecg5 = generate_ecg(ti5, ai5, bi5)
+
+# Se crea la matriz con todas las señales
+signals = [ecg0, ecg1, ecg2, ecg3, ecg4, ecg5]
+
+#Parte donde se extrae las caracteristicas
+features = []
+
+for idx, signal in enumerate(signals):
+    ecg_cleaned = nk.ecg_clean(signal, sampling_rate=fs)
+    peaks = nk.ecg_peaks(ecg_cleaned, sampling_rate=fs)[0]
+
+    if len(peaks) >= 2:
+        rr = np.diff(peaks / fs)
+        rr_mean = np.mean(rr)
+        rr_std = np.std(rr)
+    else:
+        rr_mean = np.nan
+        rr_std = np.nan
+
+    feats = {
+        "Signal_ID": idx // 2,  # Agrupamos 2 señales por tipo: 0,1 → 0; 2,3 → 1; 4,5 → 2
+        "Mean": np.mean(signal),
+        "Median": np.median(signal),
+        "STD": np.std(signal),
+        "Skewness": skew(signal),
+        "Kurtosis": kurtosis(signal),
+        "RR_Mean": rr_mean,
+        "RR_STD": rr_std
+    }
+    features.append(feats)
+
+df_features = pd.DataFrame(features)
+print("=== Tabla de características extraídas ===")
+print(df_features)
+
+#Se realiza el PCA y la normalizacion par apoder integrarlo a la grafica
+# ------------------------------------------------------
+# 3) PCA + NORMALIZACIÓN
+# ------------------------------------------------------
+X = df_features.drop(columns=['Signal_ID'])
+X = X.fillna(X.mean())
+X = X.fillna(0)
+
+pca = PCA(n_components=2)
+pca_result = pca.fit_transform(X)
+
+df_pca = pd.DataFrame(pca_result, columns=['PC1', 'PC2'])
+df_pca['Signal_ID'] = df_features['Signal_ID']
+
+print("\nVarianza explicada:", pca.explained_variance_ratio_)
+print("\n=== Datos tras PCA ===")
+print(df_pca)
+
+#Graficamos el PCA
+plt.figure(figsize=(8, 6))
+sns.scatterplot(
+    data=df_pca,
+    x='PC1',
+    y='PC2',
+    hue='Signal_ID',
+    palette='Set1',
+    s=120
+)
+plt.title('Separabilidad de Señales ECG usando PCA')
+plt.xlabel('Componente Principal 1')
+plt.ylabel('Componente Principal 2')
+plt.grid(True, alpha=0.3)
+plt.legend(title='Clase de Señal')
+plt.tight_layout()
+plt.show()
