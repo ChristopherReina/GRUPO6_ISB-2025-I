@@ -48,4 +48,9 @@ La actividad tiene el objetivo de simular y analizar diferentes señales ECG sin
 
 <image src="/Laboratorios/Laboratorio 10/lab10/10.png">
 
-## **Proyección PCA** <a name="id5"></a>
+## **Conclusiones** <a name="id5"></a>
+
+* Esta actividad nos demuestra cómo influyen las alteraciones de las señales en las características estadísticas y los datos que se analizaran en las señales biomédicas.
+* Se demuestra que las señales pueden ser diferenciadas entre clases y se puede analizar de la misma manera una señal biológica. 
+
+
