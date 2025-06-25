@@ -4,7 +4,7 @@
 
 1. [Introducción](#id0)
 2. [Objetivo](#id1)
-3. [Señales generadas](#id2)\
+3. [Señales generadas](#id2)
 4. [Caracteristicas extraídas](#id3)\
 
 
