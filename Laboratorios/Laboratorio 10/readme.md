@@ -5,7 +5,8 @@
 1. [Introducción](#id0)
 2. [Señales generadas](#id1)
 3. [Caracteristicas extraídas](#id2)
-
+4. [Caracteristicas extraídas](#id3)
+5. [Conclusiones](#id4)
 
 ## **Introducción** <a name="id0"></a>
 
@@ -39,7 +40,7 @@ La actividad tiene el objetivo de simular y analizar diferentes señales ECG sin
 
 <image src="/Laboratorios/Laboratorio 10/lab10/8.png">
   
-## **Proyección PCA** <a name="id4"></a>
+## **Proyección PCA** <a name="id3"></a>
 
 * Se utiliza el PCA para reducir la dimensionalidad de las características extraídas. El siguiente gráfico representa cómo se agrupan y separan las clases de señales generadas: 
 
@@ -47,3 +48,4 @@ La actividad tiene el objetivo de simular y analizar diferentes señales ECG sin
 
 <image src="/Laboratorios/Laboratorio 10/lab10/10.png">
 
+## **Proyección PCA** <a name="id5"></a>
