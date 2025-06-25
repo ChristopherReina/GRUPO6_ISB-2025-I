@@ -5,7 +5,7 @@
 1. [Introducción](#id0)
 2. [Señales generadas](#id1)
 3. [Caracteristicas extraídas](#id2)
-4. [Caracteristicas extraídas](#id3)
+4. [Proyección PCA](#id3)
 5. [Conclusiones](#id4)
 
 ## **Introducción** <a name="id0"></a>
