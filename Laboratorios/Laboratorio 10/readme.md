@@ -12,6 +12,8 @@
 
 La actividad tiene el objetivo de simular y analizar diferentes señales ECG sintéticas para extraer las características y aplicar técnicas de reducción de dimensionalidad, en este caso se aplicará el análisis de componentes principales (PCA).
 
+El código utilzado se encuentra en la carpeta "Laboratorio 10" con el nombre: "Codigo Actividad 4.txt".
+
 ## **Señales generadas** <a name="id1"></a>
 
 * El primer paso es generar una señal ECG con parámetros iniciales conocidos: 
