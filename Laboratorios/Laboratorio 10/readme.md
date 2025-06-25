@@ -15,27 +15,27 @@ La actividad tiene el objetivo de simular y analizar diferentes señales ECG sin
 
 El primer paso es generar una señal ECG con parámetros iniciales conocidos: 
 <image src="/Laboratorios/Laboratorio 10/lab10/1.png">
-[foto 2]
+<image src="/Laboratorios/Laboratorio 10/lab10/2.png">
 
 Seguidamente, se debe hacer dos primeras alteraciones a la señal original:
-[foto 3]
-[foto 4]
+<image src="/Laboratorios/Laboratorio 10/lab10/3.png">
+<image src="/Laboratorios/Laboratorio 10/lab10/4.png">
 
  Para culminar con una alteración adicional a cada una de las 3 señales sintéticas anteriores:
-[foto 5]
-[foto 6]
-[foto 7]
+<image src="/Laboratorios/Laboratorio 10/lab10/5.png">
+<image src="/Laboratorios/Laboratorio 10/lab10/6.png">
+<image src="/Laboratorios/Laboratorio 10/lab10/7.png">
 
 ## **Caracteristicas extraídas** <a name="id2"></a>
 
 El siguiente paso es extraer las características de cada señal. En este caso de extrajeron la media, mediana, desviación estándar, asimetría, curtosis y variabilidad entre intervalos RR. 
 
-[foto 8]
+<image src="/Laboratorios/Laboratorio 10/lab10/8.png">
   
 ## **Proyección PCA** <a name="id4"></a>
 
 Se utiliza el PCA para reducir la dimensionalidad de las características extraídas. El siguiente gráfico representa cómo se agrupan y separan las clases de señales generadas: 
 
-[foto 9]
-[foto 10]
+<image src="/Laboratorios/Laboratorio 10/lab10/9.png">
+<image src="/Laboratorios/Laboratorio 10/lab10/10.png">
 
