@@ -5,7 +5,7 @@
 1. [Introducción](#id0)
 2. [Objetivo](#id1)
 3. [Señales generadas](#id2)
-4. [Caracteristicas extraídas](#id3)\
+4. [Caracteristicas extraídas](#id3)
 
 
 ## **Introducción** <a name="id0"></a>
