@@ -325,6 +325,21 @@ Cada conjunto de características se guardó en archivos .csv por sujeto y por t
   
 ## **Optimización y selección de features** <a name="id3"></a>
 
+### Optimización ###
+
+* Normalización
+  Las características extraídas tienen escalas muy diferentes esto puede afectar negativamente a los modelos de machine learning, especialmente a los basados en distancia (SVM, KNN, redes neuronales).
+
+* PCA
+  Para reducir la dimensionalidad, eliminando redundancia y ruido. También puede mejorar el rendimiento del modelo.
+
+### Selección de características ###
+
+* Eliminación basada en varianza
+  Se puede eliminar características cuya varianza sea muy baja, es decir, las que no aportan información relevante.
+
+* Análisis de correlación
+  Se puede eliminar una de cada par de matrices de características altamente correlacionadas, es decir, las que son redundantes.
 
 ## **Análisis Integrado con MNEPython** <a name="id5"></a>
 
