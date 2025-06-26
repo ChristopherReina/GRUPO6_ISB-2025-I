@@ -45,7 +45,7 @@ La base de datos se encuentra disponible en acceso libre a través del siguiente
 
 ## **Preprocesamiento** <a name="id1"></a>
 
-## Señal Concatenada: ##
+### Señal Concatenada: ###
 
 * Carga de los datos crudos (EDF)
 El primer paso realizado fue la carga de los datos crudos utilizando la función read_raw_edf de la librería MNE-Python. Esta función permite leer archivos en formato .edf, utilizado para almacenar señales biomédicas como EEG. Se especificó el parámetro preload=True para que los datos se carguen completamente en memoria, lo cual es necesario para aplicar filtros y análisis posteriores sin problemas de acceso. El resultado de este paso es una lista de objetos Raw correspondientes a las diferentes secciones o bloques de cada sujeto.
