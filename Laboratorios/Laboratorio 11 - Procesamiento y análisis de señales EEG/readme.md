@@ -92,6 +92,217 @@ Se aplicó el Análisis de Componentes Independientes (ICA) para separar y remov
 Se reconstruyó la señal limpia tras aplicar ICA y se visualizó nuevamente para verificar la eliminación efectiva de los artefactos sin perder la información cerebral relevante.
 
 
+### Montaje de los electrodos ###
+
+[foto 1]
+
+### Señal concatenada (2s por cada tarea, 10 s en total): ###
+### Sujeto 1 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto2]  | 
+| Filtro pasabandas |   [foto3]  |     
+|    Notch    |      [foto4]     |   
+|   Artefactos ICA    |     [foto5]      |   
+|   Señal limpia ICA    |     [foto6]      |    
+
+### Señal por cada tarea (10s): ###
+
+### Sujeto 1 - Basal 1 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto7]  | 
+| Filtro pasabandas |   [foto8]  |     
+|    Notch    |      [foto9]     |   
+|   Artefactos ICA    |     [foto10]      |   
+
+### Sujeto 1 - Basal 2 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto11]  | 
+| Filtro pasabandas |   [foto12]  |     
+|    Notch    |      [foto13]     |   
+|   Artefactos ICA    |     [foto14]      |   
+
+### Sujeto 1 - Tarea 1 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto 1]  | 
+| Filtro pasabandas |   [foto2]  |     
+|    Notch    |      [foto3]     |   
+|   Artefactos ICA    |     [foto4]      |   
+
+### Sujeto 1 - Tarea 2 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto5]  | 
+| Filtro pasabandas |   [foto6]  |     
+|    Notch    |      [foto7]     |   
+|   Artefactos ICA    |     [foto8]      |   
+
+### Sujeto 1 - Tarea 3 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto9]  | 
+| Filtro pasabandas |   [foto10]  |     
+|    Notch    |      [foto11]     |   
+|   Artefactos ICA    |     [foto12]      |   
+
+### Sujeto 1 - Tarea 4 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto13]  | 
+| Filtro pasabandas |   [foto14]  |     
+|    Notch    |      [foto15]     |   
+|   Artefactos ICA    |     [foto16]      |   
+
+-----------------------------------------------------------------------------------------
+
+### Señal concatenada (2s por cada tarea, 10 s en total): ###
+### Sujeto 2 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto1]  | 
+| Filtro pasabandas |   [foto2]  |     
+|    Notch    |      [foto3]     |   
+|   Artefactos ICA    |     [foto4]      |   
+|   Señal limpia ICA    |     [foto5]      |    
+
+### Señal por cada tarea (10s): ###
+
+### Sujeto 2 - Basal 1 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto6]  | 
+| Filtro pasabandas |   [foto7]  |     
+|    Notch    |      [foto8]     |   
+|   Artefactos ICA    |     [foto9]      |   
+
+### Sujeto 2 - Basal 2 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto10]  | 
+| Filtro pasabandas |   [foto11]  |     
+|    Notch    |      [foto12]     |   
+|   Artefactos ICA    |     [foto13]      |   
+
+### Sujeto 2 - Tarea 1 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto 1]  | 
+| Filtro pasabandas |   [foto2]  |     
+|    Notch    |      [foto3]     |   
+|   Artefactos ICA    |     [foto4]      |   
+
+### Sujeto 2 - Tarea 2 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto5]  | 
+| Filtro pasabandas |   [foto6]  |     
+|    Notch    |      [foto7]     |   
+|   Artefactos ICA    |     [foto8]      |   
+
+### Sujeto 2 - Tarea 3 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto9]  | 
+| Filtro pasabandas |   [foto10]  |     
+|    Notch    |      [foto11]     |   
+|   Artefactos ICA    |     [foto12]      |   
+
+### Sujeto 2 - Tarea 4 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto13]  | 
+| Filtro pasabandas |   [foto14]  |     
+|    Notch    |      [foto15]     |   
+|   Artefactos ICA    |     [foto16]      |   
+
+-----------------------------------------------------------------------------------------
+
+### Señal concatenada (2s por cada tarea, 10 s en total): ###
+### Sujeto 3 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto1]  | 
+| Filtro pasabandas |   [foto2]  |     
+|    Notch    |      [foto3]     |   
+|   Artefactos ICA    |     [foto4]      |   
+|   Señal limpia ICA    |     [foto5]      |    
+
+### Señal por cada tarea (10s): ###
+
+### Sujeto 3 - Basal 1 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto6]  | 
+| Filtro pasabandas |   [foto7]  |     
+|    Notch    |      [foto8]     |   
+|   Artefactos ICA    |     [foto9]      |   
+
+### Sujeto 3 - Basal 2 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto10]  | 
+| Filtro pasabandas |   [foto11]  |     
+|    Notch    |      [foto12]     |   
+|   Artefactos ICA    |     [foto13]      |   
+
+### Sujeto 3 - Tarea 1 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto 1]  | 
+| Filtro pasabandas |   [foto2]  |     
+|    Notch    |      [foto3]     |   
+|   Artefactos ICA    |     [foto4]      |   
+
+### Sujeto 3 - Tarea 2 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto5]  | 
+| Filtro pasabandas |   [foto6]  |     
+|    Notch    |      [foto7]     |   
+|   Artefactos ICA    |     [foto8]      |   
+
+### Sujeto 3 - Tarea 3 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto9]  | 
+| Filtro pasabandas |   [foto10]  |     
+|    Notch    |      [foto11]     |   
+|   Artefactos ICA    |     [foto12]      |   
+
+### Sujeto 3 - Tarea 4 ###
+
+|  **Proceso**  | **Ploteo** | 
+|:------------:|:---------------:|
+| Original |   [foto13]  | 
+| Filtro pasabandas |   [foto14]  |     
+|    Notch    |      [foto15]     |   
+|   Artefactos ICA    |     [foto16]      |   
+
+------------------------------------------------------------------------------
+
 ## **Extracción de características** <a name="id2"></a>
 
   
