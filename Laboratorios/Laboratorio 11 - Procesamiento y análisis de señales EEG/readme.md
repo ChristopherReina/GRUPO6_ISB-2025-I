@@ -330,16 +330,47 @@ Cada conjunto de características se guardó en archivos .csv por sujeto y por t
 * Normalización
   Las características extraídas tienen escalas muy diferentes esto puede afectar negativamente a los modelos de machine learning, especialmente a los basados en distancia (SVM, KNN, redes neuronales).
 
+  Se normaliza las características utilizando "Normalización Z-score". Se utiliza la clase "StandardScaler" de la librería "sklearn.preprocessing".
+  Para cada columna se calcula: Z = (x - u) / σ
+
+  x es el valor original de la característica
+  μ es la media de la característica
+  σ es la desviación estándar de la característica.
+
+  Luego de este proceso por columnas, todas las características quedan en la misma escala, lo que evita que unas dominen sobre otras por tener valores numéricos más grandes.
+
 * PCA
   Para reducir la dimensionalidad, eliminando redundancia y ruido. También puede mejorar el rendimiento del modelo.
+
+  Se utiliza la clase PCA de sklearn.decomposition. Se transforma el conjunto de características originales en un nuevo conjunto de variables (componentes principales), que son combinaciones lineales de las originales.
+  En otras palabras, se conservan las componentes necesarias para explicar el 95% de la varianza y el resto de información se elimina. 
+
 
 ### Selección de características ###
 
 * Eliminación basada en varianza
   Se puede eliminar características cuya varianza sea muy baja, es decir, las que no aportan información relevante.
 
+  Se calcula qué tanto varían los valores entre las muestras. Si la varianza es menor o igual al especificado en el código que se programa, esa característica se elimina del conjunto de datos.
+
 * Análisis de correlación
   Se puede eliminar una de cada par de matrices de características altamente correlacionadas, es decir, las que son redundantes.
+
+  Se calcula la correlación de Pearson entre todas las características que quedan tras la normalización y la eliminación por varianza, se utiliza un valor absoluto para considerar los casos negativos y, para cada columna, si alguna correlación con otra columna es mayor a 0.95, la primera columna se elimina.
+
+  A continuación se muestran algunos resultados de aplicación en la data tratada: 
+
+### Basal 2 ###
+|  **Sujeto 1**  | **Sujeto 2** | **Sujeto 3** | 
+|:------------:|:---------------:|:---------------:|
+| Original |  Original  | Original  | 
+
+### Tarea 1 ###
+
+|  **Sujeto 1**  | **Sujeto 2** | **Sujeto 3** | 
+|:------------:|:---------------:|:---------------:|
+| Original |   Original  | Original  | 
+
 
 ## **Análisis Integrado con MNEPython** <a name="id5"></a>
 
