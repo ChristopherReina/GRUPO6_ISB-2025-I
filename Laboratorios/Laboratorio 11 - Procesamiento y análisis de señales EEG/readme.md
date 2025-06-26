@@ -71,7 +71,7 @@ Sse identificaron manualmente los componentes considerados artefactos (por ejemp
 * Aplicación del ICA para limpiar la señal
 Se reconstruyó la señal limpia aplicando el modelo ICA entrenado, eliminando los componentes indeseados. Esto permitió obtener una señal EEG depurada, más representativa de la actividad neuronal, y libre de interferencias provenientes del entorno o del propio cuerpo del sujeto. Esta señal limpia se visualizó nuevamente, lo cual permitió verificar de forma cualitativa que los artefactos habían sido eliminados con éxito, y que la forma general de la señal se había mantenido sin distorsiones.
 
-Señal sin concatenar:
+### Señal sin concatenar: ###
 
 * Carga de datos EEG (EDF)
 Se cargaron archivos .edf para cada sujeto y tarea utilizando read_raw_edf con preload=True, lo que permitió tener los datos completos en memoria para un procesamiento más eficiente.
