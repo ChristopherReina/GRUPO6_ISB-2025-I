@@ -371,11 +371,24 @@ Cada conjunto de características se guardó en archivos .csv por sujeto y por t
 |:------------:|:---------------:|:---------------:|
 | <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/data/4.png"> |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/data/5.png">  | <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/data/6.png">  | 
 
-
 ## **Análisis Integrado con MNEPython** <a name="id5"></a>
 
+### Basal 1 - Data cruda - Sujeto 1 ###
+|  **Frecuencial**  | **Temporal** | 
+|:------------:|:---------------:|
+| h |  h  | 
 
+### Basal 1 - Data procesada - Sujeto 1 ###
+|  **Frecuencial**  | **Temporal** | 
+|:------------:|:---------------:|
+| h |  h  | 
 
+### Tarea 2 - Data cruda - Sujeto 2 ###
+|  **Frecuencial**  | **Temporal** | 
+|:------------:|:---------------:|
+| h |  h  | 
 
-
-
+### Basal 2 - Data procesada - Sujeto 2 ###
+|  **Frecuencial**  | **Temporal** | 
+|:------------:|:---------------:|
+| h |  h  | 
