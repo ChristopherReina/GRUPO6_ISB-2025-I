@@ -6,7 +6,7 @@
 3. [Extracción de características](#id2)
 4. [Optimización y selección de features](#id3)
 5. [Análisis Integrado con MNEPython](#id4)
-6. [Referencias](#id5)
+
 
 
 ## **Introducción y Origen de los datos** <a name="id0"></a>
@@ -375,7 +375,7 @@ Cada conjunto de características se guardó en archivos .csv por sujeto y por t
 ## **Análisis Integrado con MNEPython** <a name="id5"></a>
 
 
-## **Referencias** <a name="id5"></a>
+
 
 
 
