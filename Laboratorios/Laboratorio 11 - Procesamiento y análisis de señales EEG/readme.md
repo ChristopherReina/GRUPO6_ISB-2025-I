@@ -3,9 +3,9 @@
 
 1. [Introducción y Origen de los datos](#id0)
 2. [Preprocesamiento](#id1)
-3. [Extracción de características](#id2)\
-4. [Optimización y selección de features](#id3)\
-5. [Análisis Integrado con MNEPython](#id4)\
+3. [Extracción de características](#id2)
+4. [Optimización y selección de features](#id3)
+5. [Análisis Integrado con MNEPython](#id4)
 6. [Referencias](#id5)
 
 
