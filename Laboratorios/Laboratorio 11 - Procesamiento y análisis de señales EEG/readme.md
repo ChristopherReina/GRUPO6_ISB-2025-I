@@ -376,19 +376,19 @@ Cada conjunto de características se guardó en archivos .csv por sujeto y por t
 ### Basal 1 - Data cruda - Sujeto 1 ###
 |  **Frecuencial**  | **Temporal** | 
 |:------------:|:---------------:|
-| h |  h  | 
+| <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/1.png"> |  <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/2.png">  | 
 
 ### Basal 1 - Data procesada - Sujeto 1 ###
 |  **Frecuencial**  | **Temporal** | 
 |:------------:|:---------------:|
-| h |  h  | 
+| <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/3.png"> |  <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/4.png">  | 
 
 ### Tarea 2 - Data cruda - Sujeto 2 ###
 |  **Frecuencial**  | **Temporal** | 
 |:------------:|:---------------:|
-| h |  h  | 
+| <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/5.png"> |  <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/6.png">  | 
 
 ### Basal 2 - Data procesada - Sujeto 2 ###
 |  **Frecuencial**  | **Temporal** | 
 |:------------:|:---------------:|
-| h |  h  | 
+| <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/7.png"> |  <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/8.png">  | 
