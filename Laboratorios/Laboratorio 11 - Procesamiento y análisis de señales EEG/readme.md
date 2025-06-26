@@ -388,7 +388,7 @@ Cada conjunto de características se guardó en archivos .csv por sujeto y por t
 |:------------:|:---------------:|
 | <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/5.png"> |  <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/6.png">  | 
 
-### Basal 2 - Data procesada - Sujeto 2 ###
+### Tarea 2 - Data procesada - Sujeto 2 ###
 |  **Frecuencial**  | **Temporal** | 
 |:------------:|:---------------:|
 | <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/7.png"> |  <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/MNE/8.png">  | 
