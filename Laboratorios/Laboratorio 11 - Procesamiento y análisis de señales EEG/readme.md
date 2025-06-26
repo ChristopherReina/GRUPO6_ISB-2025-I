@@ -94,7 +94,7 @@ Se reconstruyó la señal limpia tras aplicar ICA y se visualizó nuevamente par
 
 ### Montaje de los electrodos ###
 
-<image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/1.png">
+<image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/1.png">
 
 ### Señal concatenada (2s por cada tarea, 10 s en total): ###
 ### Sujeto 1 ###
