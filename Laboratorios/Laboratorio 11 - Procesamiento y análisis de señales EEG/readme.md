@@ -200,37 +200,37 @@ Se reconstruyó la señal limpia tras aplicar ICA y se visualizó nuevamente par
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto 1]  | 
-| Filtro pasabandas |   [foto2]  |     
-|    Notch    |      [foto3]     |   
-|   Artefactos ICA    |     [foto4]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/1.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/2.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/3.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/4.png">      |   
 
 ### Sujeto 2 - Tarea 2 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto5]  | 
-| Filtro pasabandas |   [foto6]  |     
-|    Notch    |      [foto7]     |   
-|   Artefactos ICA    |     [foto8]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/5.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/6.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/7.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/8.png">      |   
 
 ### Sujeto 2 - Tarea 3 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto9]  | 
-| Filtro pasabandas |   [foto10]  |     
-|    Notch    |      [foto11]     |   
-|   Artefactos ICA    |     [foto12]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/9.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/10.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/11.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/12.png">      |   
 
 ### Sujeto 2 - Tarea 4 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto13]  | 
-| Filtro pasabandas |   [foto14]  |     
-|    Notch    |      [foto15]     |   
-|   Artefactos ICA    |     [foto16]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/13.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/14.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/15.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj2/tarea/16.png">      |   
 
 -----------------------------------------------------------------------------------------
 
@@ -239,11 +239,11 @@ Se reconstruyó la señal limpia tras aplicar ICA y se visualizó nuevamente par
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto1]  | 
-| Filtro pasabandas |   [foto2]  |     
-|    Notch    |      [foto3]     |   
-|   Artefactos ICA    |     [foto4]      |   
-|   Señal limpia ICA    |     [foto5]      |    
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/1.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/2.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/3.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/4.png">      |   
+|   Señal limpia ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/5.png">      |    
 
 ### Señal por cada tarea (10s): ###
 
@@ -251,59 +251,76 @@ Se reconstruyó la señal limpia tras aplicar ICA y se visualizó nuevamente par
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto6]  | 
-| Filtro pasabandas |   [foto7]  |     
-|    Notch    |      [foto8]     |   
-|   Artefactos ICA    |     [foto9]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/6.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/7.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/8.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/9.png">      |   
 
 ### Sujeto 3 - Basal 2 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto10]  | 
-| Filtro pasabandas |   [foto11]  |     
-|    Notch    |      [foto12]     |   
-|   Artefactos ICA    |     [foto13]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/10.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/11.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/12.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/13.png">      |   
 
 ### Sujeto 3 - Tarea 1 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto 1]  | 
-| Filtro pasabandas |   [foto2]  |     
-|    Notch    |      [foto3]     |   
-|   Artefactos ICA    |     [foto4]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/1.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/2.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/3.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/4.png">      |   
 
 ### Sujeto 3 - Tarea 2 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto5]  | 
-| Filtro pasabandas |   [foto6]  |     
-|    Notch    |      [foto7]     |   
-|   Artefactos ICA    |     [foto8]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/5.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/6.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/7.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/8.png">      |   
 
 ### Sujeto 3 - Tarea 3 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto9]  | 
-| Filtro pasabandas |   [foto10]  |     
-|    Notch    |      [foto11]     |   
-|   Artefactos ICA    |     [foto12]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/9.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/10.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/11.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/12.png">      |   
 
 ### Sujeto 3 - Tarea 4 ###
 
 |  **Proceso**  | **Ploteo** | 
 |:------------:|:---------------:|
-| Original |   [foto13]  | 
-| Filtro pasabandas |   [foto14]  |     
-|    Notch    |      [foto15]     |   
-|   Artefactos ICA    |     [foto16]      |   
+| Original |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/13.png">  | 
+| Filtro pasabandas |   <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/14.png">  |     
+|    Notch    |      <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/15.png">     |   
+|   Artefactos ICA    |     <image src="/Laboratorios/Laboratorio 11 - Procesamiento y análisis de señales EEG/fotos/suj3/tarea/16.png">      |   
 
 ------------------------------------------------------------------------------
 
 ## **Extracción de características** <a name="id2"></a>
+
+Las características extraídas se agrupan en tres tipos:
+
+* Estadísticas temporales básicas:
+Media, desviación estándar, varianza, valor máximo y mínimo.
+Estas métricas describen la forma general y la dispersión de la señal EEG en cada canal.
+
+* Características de frecuencia (Transformada de Fourier):
+Energía en bandas delta (1–4 Hz), theta (4–8 Hz), alfa (8–12 Hz) y beta (12–30 Hz).
+Estas bandas están relacionadas con diferentes estados cognitivos y motores del cerebro.
+
+* Características de descomposición wavelet:
+Energía de los coeficientes obtenidos mediante la transformada wavelet discreta (DWT) usando la wavelet ‘db4’ hasta el nivel 4.
+Se capturó la energía de los niveles A4 (aproximación) y D4, D3, D2 (detalles), permitiendo representar tanto estructuras lentas como rápidas de la señal.
+
+Cada conjunto de características se guardó en archivos .csv por sujeto y por tarea, generando así una base estructurada para futuros análisis, ya sea para clasificación, visualización o identificación de patrones neuronales asociados a tareas motoras e imaginadas.
+
 
   
 ## **Optimización y selección de features** <a name="id3"></a>
