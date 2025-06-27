@@ -92,7 +92,7 @@ El siguiente gráfico PCA, se muestra la distribución de gestos musculares capt
 
   <image src="/Laboratorios/Lab 12- Avance Proyecto/1.png">
 
-* R O C
+* Curva ROC
 
 Curva ROC tras entrenar un clasificador Random Forest sobre señales EMG etiquetadas como “sano”.
 
