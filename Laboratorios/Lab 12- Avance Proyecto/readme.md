@@ -64,9 +64,9 @@ Este conjunto de datos se utiliza para estudiar el movimiento de la mano, sin em
 Utilizando **escalas de 16 y 32** (Mexican Hat y Symlet 6 respectivamente), es posible ajustar la resolución temporal y la capacidad de detección de eventos, con **escala 16** siendo ideal para eventos rápidos y **escala 32** para patrones más lentos o suaves.
 
 ### **Características estadísticas para el análisis de EMG**:
-- **MAV (Valor absoluto medio)**: Mide el nivel de activación muscular.
+- **MAV (Valor absoluto medio)**: Medida de la amplitud de la señal EMG y se calcula sumando el valor absoluto de todas las muestras de la señal y dividiendo por el número total de muestras. Mide el nivel de activación muscular.
 - **WL (Variación de la longitud)**: Evalúa la complejidad de la contracción.
-- **RMS (Raíz cuadrada media)**: Calcula la energía muscular.
+- **RMS (Raíz cuadrada media)**: Calcula la energía muscular. Valores altos de RMS indican una mayor cantidad de actividad muscular (más contracción), mientras que valores bajos indican una contracción más débil o relajación muscular.
 - **Media y Varianza**: Indicadores básicos para entender la distribución de la actividad muscular.
 
 ---
