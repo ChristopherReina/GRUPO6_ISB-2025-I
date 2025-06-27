@@ -67,10 +67,10 @@ Escala 32 Symlet 6 → mejor para patrones más lentos o suaves.
 
 * Extraer los coeficientes de una sola escala (16 o 32) que representan bien la actividad muscular que deseas analizar.
   
-MAV: Valor absoluto medio →  Nivel de activación muscular
-WL: Variación entre muestras sucesivas → Complejidad de la contracción
-RMS: Raíz cuadrada media → Energía muscular.
-Media y Varianza: Estadísticas básicas → Distribución del patrón muscular
+* MAV: Valor absoluto medio →  Nivel de activación muscular
+* WL: Variación entre muestras sucesivas → Complejidad de la contracción
+* RMS: Raíz cuadrada media → Energía muscular.
+* Media y Varianza: Estadísticas básicas → Distribución del patrón muscular
   
 ## **Base de datos adicional** <a name="id3"></a>
 
