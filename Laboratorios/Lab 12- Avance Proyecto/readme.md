@@ -47,11 +47,30 @@ Esta fue la base de datos selecionada debido a:
 - Edad promedio: 26.4 ± 45.2 años
 - El enfoque fue en la cinemática (movimiento externo de la mano), no en señales neuromusculares
 
-<image src="/Laboratorios/Laboratorio 10/lab10/1.png">
+<image src="/Laboratorios/Laboratorio 10/lab10/11.png">
 
 ## **Características e investigación** <a name="id2"></a>
 
-* El 
+* Coeficientes de aproximación (A):
+  
+Capturan las tendencias de baja frecuencia, que en EMG representan la señal muscular real (información útil).
+
+* Coeficientes de detalle (D):
+ Capturan las frecuencias altas, que muchas veces incluyen el ruido (pero también eventos rápidos de contracción si se analizan correctamente).
+
+* CWT devuelve una matriz de coeficientes:
+Filas: escalas (análogas a frecuencias).
+Columnas: tiempo.
+
+Escala 16 Mexican Hat → mejor para detectar eventos rápidos.
+Escala 32 Symlet 6 → mejor para patrones más lentos o suaves.
+
+* Extraer los coeficientes de una sola escala (16 o 32) que representan bien la actividad muscular que deseas analizar.
+  
+MAV: Valor absoluto medio →  Nivel de activación muscular
+WL: Variación entre muestras sucesivas → Complejidad de la contracción
+RMS: Raíz cuadrada media → Energía muscular.
+Media y Varianza: Estadísticas básicas → Distribución del patrón muscular
   
 ## **Base de datos adicional** <a name="id3"></a>
 
