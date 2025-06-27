@@ -90,7 +90,7 @@ Se hizo el cambio a visual studio code para usar las caracteristicas de una mejo
 
 El siguiente gráfico PCA, se muestra la distribución de gestos musculares capturados por las señales EMG tras aplicar reducción de dimensiones con PCA a características estadísticas como media, RMS y entropía. Cada punto representa un canal EMG, coloreado según el gesto realizado.
 
-  <image src="/Laboratorios/Laboratorio 12 - Proyecto Avance/1.png">
+  <image src="/Laboratorios/Lab 12- Avance Proyecto/1.png">
 
 * ROC
 
