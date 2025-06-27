@@ -90,15 +90,16 @@ Se ha utilizado la técnica de **Análisis de Componentes Principales (PCA)** pa
 
 1. **Distribución de gestos musculares**: Tras aplicar PCA, se observó cómo los diferentes gestos musculares se distribuyen en el espacio de características reducido. Cada punto representa un canal EMG, y se ha utilizado la reducción dimensional para facilitar el análisis visual.
    
-   ![PCA distribución de gestos](Lab 12- Avance Proyecto/1.png)
+ <image src="/Laboratorios/Lab 12- Avance Proyecto/1.png">
 
 2. **Curva ROC**: Tras entrenar un clasificador **Random Forest** utilizando señales EMG de personas "sanas", se ha generado una curva ROC para evaluar el rendimiento del clasificador en términos de sensibilidad y especificidad. Esto para lograr medir la efectividad de la clasificación de señales EMG.
+3. 
+<image src="/Laboratorios/Lab 12- Avance Proyecto/2.png">
 
-   ![Curva ROC](Lab 12- Avance Proyecto/2.png)
+4. **PCA según gesto**: Un gráfico de dispersión 2D muestra cómo se distribuyen los gestos musculares según las señales EMG, utilizando PCA. Este análisis ayuda a identificar patrones asociados a movimientos específicos de la mano y la muñeca.
 
-3. **PCA según gesto**: Un gráfico de dispersión 2D muestra cómo se distribuyen los gestos musculares según las señales EMG, utilizando PCA. Este análisis ayuda a identificar patrones asociados a movimientos específicos de la mano y la muñeca.
+<image src="/Laboratorios/Lab 12- Avance Proyecto/3.png">
 
-   ![PCA según gesto](Lab 12- Avance Proyecto/3.png)
 
 ### **Siguientes pasos**:
 
