@@ -47,7 +47,7 @@ Esta fue la base de datos selecionada debido a:
 - Edad promedio: 26.4 ± 45.2 años
 - El enfoque fue en la cinemática (movimiento externo de la mano), no en señales neuromusculares
 
-<image src="/Laboratorios/Laboratorio 10/lab10/11.png">
+
 
 ## **Características e investigación** <a name="id2"></a>
 
@@ -74,8 +74,32 @@ Media y Varianza: Estadísticas básicas → Distribución del patrón muscular
   
 ## **Base de datos adicional** <a name="id3"></a>
 
-* Se 
+### Dataset on Bilateral Idiopathic Carpal Tunnel Syndrome: Crossover Study of Two Combined Physiotherapeutic Treatment Methods on Chirurgical and Clinical Patients ###
 
-## **Proyecciones** <a name="id5"></a>
+Estos datos describen un ensayo cruzado controlado aleatorio de 73 participantes con síndrome del túnel carpiano bilateral idiopático (STC) que se sometieron a dos métodos de tratamiento fisioterapéutico combinados: movilización miofascial (IASTM) y estiramiento; en condiciones quirúrgicas y clínicas. 
 
-* Est
+Utilizaremos esta base de datos para tener data de pacientes con la enfermedad. 
+
+## ** Avances y siguientes pasos** <a name="id5"></a>
+
+* PCA 
+
+El siguiente gráfico PCA, se muestra la distribución de gestos musculares capturados por las señales EMG tras aplicar reducción de dimensiones con PCA a características estadísticas como media, RMS y entropía. Cada punto representa un canal EMG, coloreado según el gesto realizado.
+
+<image src="/Laboratorios/Laboratorio 12/1.png">
+
+* ROC
+
+Curva ROC tras entrenar un clasificador Random Forest sobre señales EMG etiquetadas como “sano”.
+
+<image src="/Laboratorios/Laboratorio 12/2.png">
+
+* PCA según gesto
+
+Gráfico de dispersión 2D que muestra la distribución de gestos musculares a partir de señales EMG, utilizando reducción de dimensiones con PCA.
+<image src="/Laboratorios/Laboratorio 12/2.png">
+
+* Siguientes pasos
+
+- Comparar la data de personas sanas vs personas con síndrome del tunel carpiano.
+- Utilizar la data para clasificar entre personas sanas y personas con STC. 
