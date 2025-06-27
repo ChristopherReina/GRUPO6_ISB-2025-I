@@ -27,11 +27,11 @@ El síndrome del tunel carpiano es una dolencia provocada por la inflamación y 
 
 Esta fue la base de datos selecionada debido a:
 
--HD-sEMG (448 canales)
--Datos de antebrazo y muñeca
--Grabacion simultánea de kinomática y fuerza
--Sin filtrar y sin procesar
--Sujetos sanos
+* HD-sEMG (448 canales)
+* Datos de antebrazo y muñeca
+* Grabacion simultánea de kinomática y fuerza
+* Sin filtrar y sin procesar
+* Sujetos sanos
 
 ### A database of hand kinematics, high-density sEMG of forearm and wrist for motion intent recognition v1.0.0 ###
 
