@@ -96,12 +96,12 @@ El siguiente gráfico PCA, se muestra la distribución de gestos musculares capt
 
 Curva ROC tras entrenar un clasificador Random Forest sobre señales EMG etiquetadas como “sano”.
 
-<image src="/Laboratorios/Laboratorio 12 - Proyecto Avance/2.png">
+<image src="/Laboratorios/Laboratorio 12- Proyecto Avance/2.png">
 
 * PCA según gesto
 
 Gráfico de dispersión 2D que muestra la distribución de gestos musculares a partir de señales EMG, utilizando reducción de dimensiones con PCA.
-<image src="/Laboratorios/Laboratorio 12 - Proyecto Avance/3.png">
+<image src="/Laboratorios/Laboratorio 12- Proyecto Avance/3.png">
 
 * Siguientes pasos
 
