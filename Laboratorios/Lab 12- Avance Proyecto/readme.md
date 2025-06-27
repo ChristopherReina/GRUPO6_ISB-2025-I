@@ -80,7 +80,7 @@ Estos datos describen un ensayo cruzado controlado aleatorio de 73 participantes
 
 Utilizaremos esta base de datos para tener data de pacientes con la enfermedad. 
 
-## ** Avances y siguientes pasos** <a name="id5"></a>
+## Avances y siguientes pasos <a name="id5"></a>
 
 El código con los avances se encuentra en la carpeta "Laboratorio 12- Proyecto Avance".
 
