@@ -8,7 +8,7 @@
 2. [Bases de datos](#id1)
 3. [Características e investigación](#id2)
 4. [Base de datos adicional](#id3)
-5. [Proyecciones](#id4)
+5. [Avances y siguientes pasos](#id4)
 
 ## **Introducción** <a name="id0"></a>
 
@@ -82,22 +82,26 @@ Utilizaremos esta base de datos para tener data de pacientes con la enfermedad.
 
 ## ** Avances y siguientes pasos** <a name="id5"></a>
 
+El código con los avances se encuentra en la carpeta "Laboratorio 12- Proyecto Avance".
+
+Se hizo el cambio a visual studio code para usar las caracteristicas de una mejor computadora a las que presta el servicio de google colab, para agilizar el procesamiento de los cientos de archivos de las dos bases de datos utilizadas. 
+
 * PCA 
 
 El siguiente gráfico PCA, se muestra la distribución de gestos musculares capturados por las señales EMG tras aplicar reducción de dimensiones con PCA a características estadísticas como media, RMS y entropía. Cada punto representa un canal EMG, coloreado según el gesto realizado.
 
-<image src="/Laboratorios/Laboratorio 12/1.png">
+<image src="/Laboratorios/Laboratorio 12 - Proyecto Avance/1.png">
 
 * ROC
 
 Curva ROC tras entrenar un clasificador Random Forest sobre señales EMG etiquetadas como “sano”.
 
-<image src="/Laboratorios/Laboratorio 12/2.png">
+<image src="/Laboratorios/Laboratorio 12 - Proyecto Avance/2.png">
 
 * PCA según gesto
 
 Gráfico de dispersión 2D que muestra la distribución de gestos musculares a partir de señales EMG, utilizando reducción de dimensiones con PCA.
-<image src="/Laboratorios/Laboratorio 12/2.png">
+<image src="/Laboratorios/Laboratorio 12 - Proyecto Avance/3.png">
 
 * Siguientes pasos
 
