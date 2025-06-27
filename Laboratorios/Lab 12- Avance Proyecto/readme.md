@@ -89,11 +89,10 @@ La adición de esta base de datos nos permitirá una comparación entre los **tr
 Se ha utilizado la técnica de **Análisis de Componentes Principales (PCA)** para reducir las dimensiones de los datos y visualizar la distribución de las señales EMG. Los resultados incluyen:
 
 1. **Distribución de gestos musculares**: Tras aplicar PCA, se observó cómo los diferentes gestos musculares se distribuyen en el espacio de características reducido. Cada punto representa un canal EMG, y se ha utilizado la reducción dimensional para facilitar el análisis visual. Para agilizar el análisis de los cientos de archivos pertenecientes a la base de datos encontrada se migró de Google Colab a Visual Studio Code para aprovechar las capacidades de procesamiento locales de la computadora usada. 
-   
+   PCA usando Visual Studio Code. Presentó mayor capacidad de procesamiento y se logró incluir más archivos y más datos.
  <image src="/Laboratorios/Lab 12- Avance Proyecto/1.png">
-PCA usando Visual Studio Code. Presentó mayor capacidad de procesamiento y se logró incluir más archivos y más datos.
+   PCA usando Google Colab. Encontramos limitaciones para incluir la cantidad necesaria de información
  <image src="/Laboratorios/Lab 12- Avance Proyecto/3.png">
-PCA usando Google Colab. Encontramos limitaciones para incluir la cantidad necesaria de información
 
 2. **Curva ROC**: Tras entrenar un clasificador **Random Forest** utilizando señales EMG de personas "sanas", se ha generado una curva ROC para evaluar el rendimiento del clasificador en términos de sensibilidad y especificidad. Esto para lograr medir la efectividad de la clasificación de señales EMG.
 
