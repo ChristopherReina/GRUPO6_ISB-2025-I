@@ -16,8 +16,7 @@ El síndrome del tunel carpiano es una dolencia provocada por la inflamación y 
 
 ## **Bases de datos** <a name="id1"></a>
 
-* Gesture Recognition and Biometrics ElectroMyogram (GRABMyo)
-v1.1.0
+### Gesture Recognition and Biometrics ElectroMyogram (GRABMyo) v1.1.0 ###
 
 - Electromiografía de superficie.
 - Los electrodos se colocaron en forma de anillos alrededor del antebrazo y la muñeca, abarcando: flexores y extensores del antebrazo.
@@ -26,14 +25,14 @@ v1.1.0
 - Duración por gesto: 5 segundos por repetición.
 - Total de repeticiones por gesto: 7.
 
-* A database of hand kinematics, high-density sEMG of forearm and wrist for motion intent recognition v1.0.0
+### A database of hand kinematics, high-density sEMG of forearm and wrist for motion intent recognition v1.0.0 ###
 
 - Electrodos de superficie de alta densidad (HD-sEMG).Los electrodos se colocaron en forma de anillos alrededor del antebrazo y la muñeca, abarcando: flexores y extensores del antebrazo.
 - Rango de edad: 21 a 35 años
 - Guante de datos 5DT Data Glove 14 Ultra.
 - Frecuencia de muestreo: 200 Hz.
 
-* Complex Upper-Limb Movements v1.0.0
+### Complex Upper-Limb Movements v1.0.0 ###
 
 - Sistema de captura de movimiento basado en cámaras (VICON).
 - Marcador reflectante en la mano para reconstruir su trayectoria 3D.
