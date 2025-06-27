@@ -25,6 +25,14 @@ El síndrome del tunel carpiano es una dolencia provocada por la inflamación y 
 - Duración por gesto: 5 segundos por repetición.
 - Total de repeticiones por gesto: 7.
 
+Esta fue la base de datos selecionada debido a:
+
+-HD-sEMG (448 canales)
+-Datos de antebrazo y muñeca
+-Grabacion simultánea de kinomática y fuerza
+-Sin filtrar y sin procesar
+-Sujetos sanos
+
 ### A database of hand kinematics, high-density sEMG of forearm and wrist for motion intent recognition v1.0.0 ###
 
 - Electrodos de superficie de alta densidad (HD-sEMG).Los electrodos se colocaron en forma de anillos alrededor del antebrazo y la muñeca, abarcando: flexores y extensores del antebrazo.
@@ -39,9 +47,7 @@ El síndrome del tunel carpiano es una dolencia provocada por la inflamación y 
 - Edad promedio: 26.4 ± 45.2 años
 - El enfoque fue en la cinemática (movimiento externo de la mano), no en señales neuromusculares
 
- 
 <image src="/Laboratorios/Laboratorio 10/lab10/1.png">
-
 
 ## **Características e investigación** <a name="id2"></a>
 
