@@ -93,7 +93,7 @@ Se ha utilizado la técnica de **Análisis de Componentes Principales (PCA)** pa
  <image src="/Laboratorios/Lab 12- Avance Proyecto/1.png">
 
 2. **Curva ROC**: Tras entrenar un clasificador **Random Forest** utilizando señales EMG de personas "sanas", se ha generado una curva ROC para evaluar el rendimiento del clasificador en términos de sensibilidad y especificidad. Esto para lograr medir la efectividad de la clasificación de señales EMG.
-3. 
+
 <image src="/Laboratorios/Lab 12- Avance Proyecto/2.png">
 
 4. **PCA según gesto**: Un gráfico de dispersión 2D muestra cómo se distribuyen los gestos musculares según las señales EMG, utilizando PCA. Este análisis ayuda a identificar patrones asociados a movimientos específicos de la mano y la muñeca.
