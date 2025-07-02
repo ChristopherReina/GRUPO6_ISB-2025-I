@@ -109,9 +109,14 @@ Para probar el modelo de clasificación, se generaron **5 señales artificiales*
 
 **Gráfico PCA de características**:
 
-- Se visualizó un gráfico PCA de las características importantes extraídas (mean, std, RMS, skewness, entropy, kurtosis) para observar la distribución de las señales y cómo se separan las señales sanas de las de STC.
+- Las características principales de las 5 señales fueron extraídas, estas son entradas del modelo entrenado para que determine si se trata de un patrón normal o de STC
+
  <image src="/Laboratorios/Laboratorio 13 - Avance de proyecto/archivos/Extracción_características_5señales.png">
+   
+- Se visualizó un gráfico PCA de las características importantes extraídas (mean, std, RMS, skewness, entropy, kurtosis) para observar la distribución de las señales y cómo se separan las señales sanas de las de STC.
+
  <image src="/Laboratorios/Laboratorio 13 - Avance de proyecto/archivos/PCA_5señales.png">
+   
    Se observan 5 puntos debido a las 5 señales analizadas con STC
 
 **Resultados de predicción para las señales**:
